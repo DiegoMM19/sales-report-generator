@@ -1,0 +1,1473 @@
+date,product_id,product,category,units,unit_price
+2026-07-01,P01,Cola 600ml,Beverages,25,1.0
+2026-07-01,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-07-01,P03,Bottled Water 1L,Beverages,29,0.6
+2026-07-01,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-07-01,P05,Potato Chips,Snacks,19,1.3
+2026-07-01,P06,Salted Peanuts,Snacks,9,0.9
+2026-07-01,P07,Cookies,Snacks,17,1.2
+2026-07-01,P08,Chocolate Bar,Snacks,21,0.85
+2026-07-01,P09,Whole Milk 1L,Dairy,23,1.2
+2026-07-01,P10,Yogurt 1kg,Dairy,10,2.2
+2026-07-01,P11,Cheese 400g,Dairy,7,3.8
+2026-07-01,P12,Butter 200g,Dairy,8,1.9
+2026-07-01,P13,Dish Soap,Cleaning,10,1.9
+2026-07-01,P14,Laundry Detergent,Cleaning,5,5.2
+2026-07-01,P15,Bleach 1L,Cleaning,7,1.5
+2026-07-01,P16,Paper Towels,Cleaning,5,2.5
+2026-07-02,P01,Cola 600ml,Beverages,28,1.0
+2026-07-02,P02,Orange Soda 600ml,Beverages,24,0.95
+2026-07-02,P03,Bottled Water 1L,Beverages,30,0.6
+2026-07-02,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-07-02,P05,Potato Chips,Snacks,23,1.3
+2026-07-02,P06,Salted Peanuts,Snacks,9,0.9
+2026-07-02,P07,Cookies,Snacks,15,1.2
+2026-07-02,P08,Chocolate Bar,Snacks,25,0.85
+2026-07-02,P09,Whole Milk 1L,Dairy,29,1.2
+2026-07-02,P10,Yogurt 1kg,Dairy,9,2.2
+2026-07-02,P11,Cheese 400g,Dairy,8,3.8
+2026-07-02,P12,Butter 200g,Dairy,6,1.9
+2026-07-02,P13,Dish Soap,Cleaning,11,1.9
+2026-07-02,P14,Laundry Detergent,Cleaning,4,5.2
+2026-07-02,P15,Bleach 1L,Cleaning,9,1.5
+2026-07-02,P16,Paper Towels,Cleaning,4,2.5
+2026-07-03,P01,Cola 600ml,Beverages,13,1.0
+2026-07-03,P02,Orange Soda 600ml,Beverages,18,0.95
+2026-07-03,P03,Bottled Water 1L,Beverages,28,0.6
+2026-07-03,P04,Fruit Juice 1L,Beverages,16,1.5
+2026-07-03,P05,Potato Chips,Snacks,26,1.3
+2026-07-03,P06,Salted Peanuts,Snacks,12,0.9
+2026-07-03,P07,Cookies,Snacks,22,1.2
+2026-07-03,P08,Chocolate Bar,Snacks,20,0.85
+2026-07-03,P09,Whole Milk 1L,Dairy,27,1.2
+2026-07-03,P10,Yogurt 1kg,Dairy,11,2.2
+2026-07-03,P11,Cheese 400g,Dairy,8,3.8
+2026-07-03,P12,Butter 200g,Dairy,8,1.9
+2026-07-03,P13,Dish Soap,Cleaning,12,1.9
+2026-07-03,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-03,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-03,P16,Paper Towels,Cleaning,9,2.5
+2026-07-04,P01,Cola 600ml,Beverages,31,1.0
+2026-07-04,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-07-04,P03,Bottled Water 1L,Beverages,37,0.6
+2026-07-04,P04,Fruit Juice 1L,Beverages,18,1.5
+2026-07-04,P05,Potato Chips,Snacks,26,1.3
+2026-07-04,P06,Salted Peanuts,Snacks,27,0.9
+2026-07-04,P07,Cookies,Snacks,18,1.2
+2026-07-04,P08,Chocolate Bar,Snacks,24,0.85
+2026-07-04,P09,Whole Milk 1L,Dairy,37,1.2
+2026-07-04,P10,Yogurt 1kg,Dairy,17,2.2
+2026-07-04,P11,Cheese 400g,Dairy,10,3.8
+2026-07-04,P12,Butter 200g,Dairy,9,1.9
+2026-07-04,P13,Dish Soap,Cleaning,15,1.9
+2026-07-04,P14,Laundry Detergent,Cleaning,7,5.2
+2026-07-04,P15,Bleach 1L,Cleaning,8,1.5
+2026-07-04,P16,Paper Towels,Cleaning,9,2.5
+2026-07-05,P01,Cola 600ml,Beverages,40,1.0
+2026-07-05,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-07-05,P03,Bottled Water 1L,Beverages,39,0.6
+2026-07-05,P04,Fruit Juice 1L,Beverages,16,1.5
+2026-07-05,P05,Potato Chips,Snacks,24,1.3
+2026-07-05,P06,Salted Peanuts,Snacks,21,0.9
+2026-07-05,P07,Cookies,Snacks,23,1.2
+2026-07-05,P08,Chocolate Bar,Snacks,41,0.85
+2026-07-05,P09,Whole Milk 1L,Dairy,35,1.2
+2026-07-05,P10,Yogurt 1kg,Dairy,11,2.2
+2026-07-05,P11,Cheese 400g,Dairy,8,3.8
+2026-07-05,P12,Butter 200g,Dairy,7,1.9
+2026-07-05,P13,Dish Soap,Cleaning,14,1.9
+2026-07-05,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-05,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-05,P16,Paper Towels,Cleaning,10,2.5
+2026-07-06,P01,Cola 600ml,Beverages,21,1.0
+2026-07-06,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-07-06,P03,Bottled Water 1L,Beverages,16,0.6
+2026-07-06,P04,Fruit Juice 1L,Beverages,9,1.5
+2026-07-06,P05,Potato Chips,Snacks,17,1.3
+2026-07-06,P06,Salted Peanuts,Snacks,15,0.9
+2026-07-06,P07,Cookies,Snacks,21,1.2
+2026-07-06,P08,Chocolate Bar,Snacks,22,0.85
+2026-07-06,P09,Whole Milk 1L,Dairy,26,1.2
+2026-07-06,P10,Yogurt 1kg,Dairy,10,2.2
+2026-07-06,P11,Cheese 400g,Dairy,9,3.8
+2026-07-06,P12,Butter 200g,Dairy,7,1.9
+2026-07-06,P13,Dish Soap,Cleaning,10,1.9
+2026-07-06,P14,Laundry Detergent,Cleaning,4,5.2
+2026-07-06,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-06,P16,Paper Towels,Cleaning,8,2.5
+2026-07-07,P01,Cola 600ml,Beverages,34,1.0
+2026-07-07,P02,Orange Soda 600ml,Beverages,18,0.95
+2026-07-07,P03,Bottled Water 1L,Beverages,45,0.6
+2026-07-07,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-07-07,P05,Potato Chips,Snacks,28,1.3
+2026-07-07,P06,Salted Peanuts,Snacks,14,0.9
+2026-07-07,P07,Cookies,Snacks,14,1.2
+2026-07-07,P08,Chocolate Bar,Snacks,16,0.85
+2026-07-07,P09,Whole Milk 1L,Dairy,23,1.2
+2026-07-07,P10,Yogurt 1kg,Dairy,14,2.2
+2026-07-07,P11,Cheese 400g,Dairy,8,3.8
+2026-07-07,P12,Butter 200g,Dairy,7,1.9
+2026-07-07,P13,Dish Soap,Cleaning,4,1.9
+2026-07-07,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-07,P15,Bleach 1L,Cleaning,9,1.5
+2026-07-07,P16,Paper Towels,Cleaning,6,2.5
+2026-07-08,P01,Cola 600ml,Beverages,22,1.0
+2026-07-08,P02,Orange Soda 600ml,Beverages,18,0.95
+2026-07-08,P03,Bottled Water 1L,Beverages,43,0.6
+2026-07-08,P04,Fruit Juice 1L,Beverages,9,1.5
+2026-07-08,P05,Potato Chips,Snacks,18,1.3
+2026-07-08,P06,Salted Peanuts,Snacks,19,0.9
+2026-07-08,P07,Cookies,Snacks,14,1.2
+2026-07-08,P08,Chocolate Bar,Snacks,20,0.85
+2026-07-08,P09,Whole Milk 1L,Dairy,25,1.2
+2026-07-08,P10,Yogurt 1kg,Dairy,7,2.2
+2026-07-08,P11,Cheese 400g,Dairy,7,3.8
+2026-07-08,P12,Butter 200g,Dairy,4,1.9
+2026-07-08,P13,Dish Soap,Cleaning,11,1.9
+2026-07-08,P14,Laundry Detergent,Cleaning,5,5.2
+2026-07-08,P15,Bleach 1L,Cleaning,13,1.5
+2026-07-08,P16,Paper Towels,Cleaning,7,2.5
+2026-07-09,P01,Cola 600ml,Beverages,35,1.0
+2026-07-09,P02,Orange Soda 600ml,Beverages,12,0.95
+2026-07-09,P03,Bottled Water 1L,Beverages,29,0.6
+2026-07-09,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-07-09,P05,Potato Chips,Snacks,29,1.3
+2026-07-09,P06,Salted Peanuts,Snacks,8,0.9
+2026-07-09,P07,Cookies,Snacks,20,1.2
+2026-07-09,P08,Chocolate Bar,Snacks,25,0.85
+2026-07-09,P09,Whole Milk 1L,Dairy,33,1.2
+2026-07-09,P10,Yogurt 1kg,Dairy,12,2.2
+2026-07-09,P11,Cheese 400g,Dairy,7,3.8
+2026-07-09,P12,Butter 200g,Dairy,5,1.9
+2026-07-09,P13,Dish Soap,Cleaning,6,1.9
+2026-07-09,P14,Laundry Detergent,Cleaning,5,5.2
+2026-07-09,P15,Bleach 1L,Cleaning,8,1.5
+2026-07-09,P16,Paper Towels,Cleaning,11,2.5
+2026-07-10,P01,Cola 600ml,Beverages,26,1.0
+2026-07-10,P02,Orange Soda 600ml,Beverages,22,0.95
+2026-07-10,P03,Bottled Water 1L,Beverages,23,0.6
+2026-07-10,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-07-10,P05,Potato Chips,Snacks,24,1.3
+2026-07-10,P06,Salted Peanuts,Snacks,19,0.9
+2026-07-10,P07,Cookies,Snacks,24,1.2
+2026-07-10,P08,Chocolate Bar,Snacks,25,0.85
+2026-07-10,P09,Whole Milk 1L,Dairy,21,1.2
+2026-07-10,P10,Yogurt 1kg,Dairy,13,2.2
+2026-07-10,P11,Cheese 400g,Dairy,9,3.8
+2026-07-10,P12,Butter 200g,Dairy,8,1.9
+2026-07-10,P13,Dish Soap,Cleaning,9,1.9
+2026-07-10,P14,Laundry Detergent,Cleaning,7,5.2
+2026-07-10,P15,Bleach 1L,Cleaning,9,1.5
+2026-07-10,P16,Paper Towels,Cleaning,9,2.5
+2026-07-11,P01,Cola 600ml,Beverages,43,1.0
+2026-07-11,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-07-11,P03,Bottled Water 1L,Beverages,43,0.6
+2026-07-11,P04,Fruit Juice 1L,Beverages,23,1.5
+2026-07-11,P05,Potato Chips,Snacks,28,1.3
+2026-07-11,P06,Salted Peanuts,Snacks,18,0.9
+2026-07-11,P07,Cookies,Snacks,22,1.2
+2026-07-11,P08,Chocolate Bar,Snacks,38,0.85
+2026-07-11,P09,Whole Milk 1L,Dairy,33,1.2
+2026-07-11,P10,Yogurt 1kg,Dairy,15,2.2
+2026-07-11,P11,Cheese 400g,Dairy,12,3.8
+2026-07-11,P12,Butter 200g,Dairy,7,1.9
+2026-07-11,P13,Dish Soap,Cleaning,8,1.9
+2026-07-11,P14,Laundry Detergent,Cleaning,7,5.2
+2026-07-11,P15,Bleach 1L,Cleaning,11,1.5
+2026-07-11,P16,Paper Towels,Cleaning,8,2.5
+2026-07-12,P01,Cola 600ml,Beverages,39,1.0
+2026-07-12,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-07-12,P03,Bottled Water 1L,Beverages,32,0.6
+2026-07-12,P04,Fruit Juice 1L,Beverages,17,1.5
+2026-07-12,P05,Potato Chips,Snacks,25,1.3
+2026-07-12,P06,Salted Peanuts,Snacks,13,0.9
+2026-07-12,P07,Cookies,Snacks,23,1.2
+2026-07-12,P08,Chocolate Bar,Snacks,28,0.85
+2026-07-12,P09,Whole Milk 1L,Dairy,27,1.2
+2026-07-12,P10,Yogurt 1kg,Dairy,14,2.2
+2026-07-12,P11,Cheese 400g,Dairy,10,3.8
+2026-07-12,P12,Butter 200g,Dairy,7,1.9
+2026-07-12,P13,Dish Soap,Cleaning,13,1.9
+2026-07-12,P14,Laundry Detergent,Cleaning,8,5.2
+2026-07-12,P15,Bleach 1L,Cleaning,9,1.5
+2026-07-12,P16,Paper Towels,Cleaning,10,2.5
+2026-07-13,P01,Cola 600ml,Beverages,26,1.0
+2026-07-13,P02,Orange Soda 600ml,Beverages,28,0.95
+2026-07-13,P03,Bottled Water 1L,Beverages,16,0.6
+2026-07-13,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-07-13,P05,Potato Chips,Snacks,18,1.3
+2026-07-13,P06,Salted Peanuts,Snacks,14,0.9
+2026-07-13,P07,Cookies,Snacks,24,1.2
+2026-07-13,P08,Chocolate Bar,Snacks,22,0.85
+2026-07-13,P09,Whole Milk 1L,Dairy,37,1.2
+2026-07-13,P10,Yogurt 1kg,Dairy,9,2.2
+2026-07-13,P11,Cheese 400g,Dairy,8,3.8
+2026-07-13,P12,Butter 200g,Dairy,5,1.9
+2026-07-13,P13,Dish Soap,Cleaning,7,1.9
+2026-07-13,P14,Laundry Detergent,Cleaning,5,5.2
+2026-07-13,P15,Bleach 1L,Cleaning,7,1.5
+2026-07-13,P16,Paper Towels,Cleaning,7,2.5
+2026-07-14,P01,Cola 600ml,Beverages,12,1.0
+2026-07-14,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-07-14,P03,Bottled Water 1L,Beverages,29,0.6
+2026-07-14,P04,Fruit Juice 1L,Beverages,17,1.5
+2026-07-14,P05,Potato Chips,Snacks,15,1.3
+2026-07-14,P06,Salted Peanuts,Snacks,15,0.9
+2026-07-14,P07,Cookies,Snacks,29,1.2
+2026-07-14,P08,Chocolate Bar,Snacks,17,0.85
+2026-07-14,P09,Whole Milk 1L,Dairy,15,1.2
+2026-07-14,P10,Yogurt 1kg,Dairy,9,2.2
+2026-07-14,P11,Cheese 400g,Dairy,8,3.8
+2026-07-14,P12,Butter 200g,Dairy,7,1.9
+2026-07-14,P13,Dish Soap,Cleaning,12,1.9
+2026-07-14,P14,Laundry Detergent,Cleaning,5,5.2
+2026-07-14,P15,Bleach 1L,Cleaning,5,1.5
+2026-07-14,P16,Paper Towels,Cleaning,6,2.5
+2026-07-15,P01,Cola 600ml,Beverages,34,1.0
+2026-07-15,P02,Orange Soda 600ml,Beverages,20,0.95
+2026-07-15,P03,Bottled Water 1L,Beverages,15,0.6
+2026-07-15,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-07-15,P05,Potato Chips,Snacks,27,1.3
+2026-07-15,P06,Salted Peanuts,Snacks,21,0.9
+2026-07-15,P07,Cookies,Snacks,18,1.2
+2026-07-15,P08,Chocolate Bar,Snacks,24,0.85
+2026-07-15,P09,Whole Milk 1L,Dairy,17,1.2
+2026-07-15,P10,Yogurt 1kg,Dairy,8,2.2
+2026-07-15,P11,Cheese 400g,Dairy,7,3.8
+2026-07-15,P12,Butter 200g,Dairy,7,1.9
+2026-07-15,P13,Dish Soap,Cleaning,10,1.9
+2026-07-15,P14,Laundry Detergent,Cleaning,4,5.2
+2026-07-15,P15,Bleach 1L,Cleaning,6,1.5
+2026-07-15,P16,Paper Towels,Cleaning,6,2.5
+2026-07-16,P01,Cola 600ml,Beverages,18,1.0
+2026-07-16,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-07-16,P03,Bottled Water 1L,Beverages,13,0.6
+2026-07-16,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-07-16,P05,Potato Chips,Snacks,22,1.3
+2026-07-16,P06,Salted Peanuts,Snacks,19,0.9
+2026-07-16,P07,Cookies,Snacks,16,1.2
+2026-07-16,P08,Chocolate Bar,Snacks,28,0.85
+2026-07-16,P09,Whole Milk 1L,Dairy,22,1.2
+2026-07-16,P10,Yogurt 1kg,Dairy,8,2.2
+2026-07-16,P11,Cheese 400g,Dairy,6,3.8
+2026-07-16,P12,Butter 200g,Dairy,8,1.9
+2026-07-16,P13,Dish Soap,Cleaning,11,1.9
+2026-07-16,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-16,P15,Bleach 1L,Cleaning,15,1.5
+2026-07-16,P16,Paper Towels,Cleaning,7,2.5
+2026-07-17,P01,Cola 600ml,Beverages,34,1.0
+2026-07-17,P02,Orange Soda 600ml,Beverages,22,0.95
+2026-07-17,P03,Bottled Water 1L,Beverages,33,0.6
+2026-07-17,P04,Fruit Juice 1L,Beverages,21,1.5
+2026-07-17,P05,Potato Chips,Snacks,31,1.3
+2026-07-17,P06,Salted Peanuts,Snacks,11,0.9
+2026-07-17,P07,Cookies,Snacks,17,1.2
+2026-07-17,P08,Chocolate Bar,Snacks,28,0.85
+2026-07-17,P09,Whole Milk 1L,Dairy,32,1.2
+2026-07-17,P10,Yogurt 1kg,Dairy,8,2.2
+2026-07-17,P11,Cheese 400g,Dairy,4,3.8
+2026-07-17,P12,Butter 200g,Dairy,4,1.9
+2026-07-17,P13,Dish Soap,Cleaning,10,1.9
+2026-07-17,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-17,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-17,P16,Paper Towels,Cleaning,7,2.5
+2026-07-18,P01,Cola 600ml,Beverages,27,1.0
+2026-07-18,P02,Orange Soda 600ml,Beverages,15,0.95
+2026-07-18,P03,Bottled Water 1L,Beverages,43,0.6
+2026-07-18,P04,Fruit Juice 1L,Beverages,17,1.5
+2026-07-18,P05,Potato Chips,Snacks,32,1.3
+2026-07-18,P06,Salted Peanuts,Snacks,22,0.9
+2026-07-18,P07,Cookies,Snacks,21,1.2
+2026-07-18,P08,Chocolate Bar,Snacks,37,0.85
+2026-07-18,P09,Whole Milk 1L,Dairy,32,1.2
+2026-07-18,P10,Yogurt 1kg,Dairy,12,2.2
+2026-07-18,P11,Cheese 400g,Dairy,9,3.8
+2026-07-18,P12,Butter 200g,Dairy,7,1.9
+2026-07-18,P13,Dish Soap,Cleaning,7,1.9
+2026-07-18,P14,Laundry Detergent,Cleaning,7,5.2
+2026-07-18,P15,Bleach 1L,Cleaning,11,1.5
+2026-07-18,P16,Paper Towels,Cleaning,9,2.5
+2026-07-19,P01,Cola 600ml,Beverages,29,1.0
+2026-07-19,P02,Orange Soda 600ml,Beverages,25,0.95
+2026-07-19,P03,Bottled Water 1L,Beverages,52,0.6
+2026-07-19,P04,Fruit Juice 1L,Beverages,16,1.5
+2026-07-19,P05,Potato Chips,Snacks,23,1.3
+2026-07-19,P06,Salted Peanuts,Snacks,16,0.9
+2026-07-19,P07,Cookies,Snacks,21,1.2
+2026-07-19,P08,Chocolate Bar,Snacks,22,0.85
+2026-07-19,P09,Whole Milk 1L,Dairy,30,1.2
+2026-07-19,P10,Yogurt 1kg,Dairy,13,2.2
+2026-07-19,P11,Cheese 400g,Dairy,12,3.8
+2026-07-19,P12,Butter 200g,Dairy,9,1.9
+2026-07-19,P13,Dish Soap,Cleaning,14,1.9
+2026-07-19,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-19,P15,Bleach 1L,Cleaning,12,1.5
+2026-07-19,P16,Paper Towels,Cleaning,7,2.5
+2026-07-20,P01,Cola 600ml,Beverages,28,1.0
+2026-07-20,P02,Orange Soda 600ml,Beverages,20,0.95
+2026-07-20,P03,Bottled Water 1L,Beverages,24,0.6
+2026-07-20,P04,Fruit Juice 1L,Beverages,18,1.5
+2026-07-20,P05,Potato Chips,Snacks,23,1.3
+2026-07-20,P06,Salted Peanuts,Snacks,7,0.9
+2026-07-20,P07,Cookies,Snacks,18,1.2
+2026-07-20,P08,Chocolate Bar,Snacks,20,0.85
+2026-07-20,P09,Whole Milk 1L,Dairy,24,1.2
+2026-07-20,P10,Yogurt 1kg,Dairy,11,2.2
+2026-07-20,P11,Cheese 400g,Dairy,8,3.8
+2026-07-20,P12,Butter 200g,Dairy,3,1.9
+2026-07-20,P13,Dish Soap,Cleaning,6,1.9
+2026-07-20,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-20,P15,Bleach 1L,Cleaning,11,1.5
+2026-07-20,P16,Paper Towels,Cleaning,10,2.5
+2026-07-21,P01,Cola 600ml,Beverages,38,1.0
+2026-07-21,P02,Orange Soda 600ml,Beverages,9,0.95
+2026-07-21,P03,Bottled Water 1L,Beverages,36,0.6
+2026-07-21,P04,Fruit Juice 1L,Beverages,6,1.5
+2026-07-21,P05,Potato Chips,Snacks,28,1.3
+2026-07-21,P06,Salted Peanuts,Snacks,15,0.9
+2026-07-21,P07,Cookies,Snacks,11,1.2
+2026-07-21,P08,Chocolate Bar,Snacks,33,0.85
+2026-07-21,P09,Whole Milk 1L,Dairy,28,1.2
+2026-07-21,P10,Yogurt 1kg,Dairy,5,2.2
+2026-07-21,P11,Cheese 400g,Dairy,8,3.8
+2026-07-21,P12,Butter 200g,Dairy,5,1.9
+2026-07-21,P13,Dish Soap,Cleaning,9,1.9
+2026-07-21,P14,Laundry Detergent,Cleaning,4,5.2
+2026-07-21,P15,Bleach 1L,Cleaning,11,1.5
+2026-07-21,P16,Paper Towels,Cleaning,5,2.5
+2026-07-22,P01,Cola 600ml,Beverages,28,1.0
+2026-07-22,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-07-22,P03,Bottled Water 1L,Beverages,24,0.6
+2026-07-22,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-07-22,P05,Potato Chips,Snacks,21,1.3
+2026-07-22,P06,Salted Peanuts,Snacks,12,0.9
+2026-07-22,P07,Cookies,Snacks,19,1.2
+2026-07-22,P08,Chocolate Bar,Snacks,23,0.85
+2026-07-22,P09,Whole Milk 1L,Dairy,18,1.2
+2026-07-22,P10,Yogurt 1kg,Dairy,14,2.2
+2026-07-22,P11,Cheese 400g,Dairy,8,3.8
+2026-07-22,P12,Butter 200g,Dairy,6,1.9
+2026-07-22,P13,Dish Soap,Cleaning,8,1.9
+2026-07-22,P14,Laundry Detergent,Cleaning,4,5.2
+2026-07-22,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-22,P16,Paper Towels,Cleaning,7,2.5
+2026-07-23,P01,Cola 600ml,Beverages,29,1.0
+2026-07-23,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-07-23,P03,Bottled Water 1L,Beverages,35,0.6
+2026-07-23,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-07-23,P05,Potato Chips,Snacks,24,1.3
+2026-07-23,P06,Salted Peanuts,Snacks,13,0.9
+2026-07-23,P07,Cookies,Snacks,19,1.2
+2026-07-23,P08,Chocolate Bar,Snacks,26,0.85
+2026-07-23,P09,Whole Milk 1L,Dairy,23,1.2
+2026-07-23,P10,Yogurt 1kg,Dairy,8,2.2
+2026-07-23,P11,Cheese 400g,Dairy,5,3.8
+2026-07-23,P12,Butter 200g,Dairy,5,1.9
+2026-07-23,P13,Dish Soap,Cleaning,7,1.9
+2026-07-23,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-23,P15,Bleach 1L,Cleaning,8,1.5
+2026-07-23,P16,Paper Towels,Cleaning,10,2.5
+2026-07-24,P01,Cola 600ml,Beverages,45,1.0
+2026-07-24,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-07-24,P03,Bottled Water 1L,Beverages,23,0.6
+2026-07-24,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-07-24,P05,Potato Chips,Snacks,23,1.3
+2026-07-24,P06,Salted Peanuts,Snacks,11,0.9
+2026-07-24,P07,Cookies,Snacks,17,1.2
+2026-07-24,P08,Chocolate Bar,Snacks,27,0.85
+2026-07-24,P09,Whole Milk 1L,Dairy,25,1.2
+2026-07-24,P10,Yogurt 1kg,Dairy,10,2.2
+2026-07-24,P11,Cheese 400g,Dairy,7,3.8
+2026-07-24,P12,Butter 200g,Dairy,10,1.9
+2026-07-24,P13,Dish Soap,Cleaning,10,1.9
+2026-07-24,P14,Laundry Detergent,Cleaning,5,5.2
+2026-07-24,P15,Bleach 1L,Cleaning,8,1.5
+2026-07-24,P16,Paper Towels,Cleaning,10,2.5
+2026-07-25,P01,Cola 600ml,Beverages,31,1.0
+2026-07-25,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-07-25,P03,Bottled Water 1L,Beverages,46,0.6
+2026-07-25,P04,Fruit Juice 1L,Beverages,18,1.5
+2026-07-25,P05,Potato Chips,Snacks,34,1.3
+2026-07-25,P06,Salted Peanuts,Snacks,17,0.9
+2026-07-25,P07,Cookies,Snacks,26,1.2
+2026-07-25,P08,Chocolate Bar,Snacks,25,0.85
+2026-07-25,P09,Whole Milk 1L,Dairy,30,1.2
+2026-07-25,P10,Yogurt 1kg,Dairy,16,2.2
+2026-07-25,P11,Cheese 400g,Dairy,11,3.8
+2026-07-25,P12,Butter 200g,Dairy,8,1.9
+2026-07-25,P13,Dish Soap,Cleaning,9,1.9
+2026-07-25,P14,Laundry Detergent,Cleaning,7,5.2
+2026-07-25,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-25,P16,Paper Towels,Cleaning,8,2.5
+2026-07-26,P01,Cola 600ml,Beverages,30,1.0
+2026-07-26,P02,Orange Soda 600ml,Beverages,25,0.95
+2026-07-26,P03,Bottled Water 1L,Beverages,23,0.6
+2026-07-26,P04,Fruit Juice 1L,Beverages,17,1.5
+2026-07-26,P05,Potato Chips,Snacks,27,1.3
+2026-07-26,P06,Salted Peanuts,Snacks,16,0.9
+2026-07-26,P07,Cookies,Snacks,25,1.2
+2026-07-26,P08,Chocolate Bar,Snacks,32,0.85
+2026-07-26,P09,Whole Milk 1L,Dairy,28,1.2
+2026-07-26,P10,Yogurt 1kg,Dairy,11,2.2
+2026-07-26,P11,Cheese 400g,Dairy,10,3.8
+2026-07-26,P12,Butter 200g,Dairy,6,1.9
+2026-07-26,P13,Dish Soap,Cleaning,11,1.9
+2026-07-26,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-26,P15,Bleach 1L,Cleaning,11,1.5
+2026-07-26,P16,Paper Towels,Cleaning,9,2.5
+2026-07-27,P01,Cola 600ml,Beverages,26,1.0
+2026-07-27,P02,Orange Soda 600ml,Beverages,23,0.95
+2026-07-27,P03,Bottled Water 1L,Beverages,32,0.6
+2026-07-27,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-07-27,P05,Potato Chips,Snacks,14,1.3
+2026-07-27,P06,Salted Peanuts,Snacks,17,0.9
+2026-07-27,P07,Cookies,Snacks,18,1.2
+2026-07-27,P08,Chocolate Bar,Snacks,30,0.85
+2026-07-27,P09,Whole Milk 1L,Dairy,20,1.2
+2026-07-27,P10,Yogurt 1kg,Dairy,10,2.2
+2026-07-27,P11,Cheese 400g,Dairy,7,3.8
+2026-07-27,P12,Butter 200g,Dairy,6,1.9
+2026-07-27,P13,Dish Soap,Cleaning,9,1.9
+2026-07-27,P14,Laundry Detergent,Cleaning,3,5.2
+2026-07-27,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-27,P16,Paper Towels,Cleaning,8,2.5
+2026-07-28,P01,Cola 600ml,Beverages,33,1.0
+2026-07-28,P02,Orange Soda 600ml,Beverages,28,0.95
+2026-07-28,P03,Bottled Water 1L,Beverages,28,0.6
+2026-07-28,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-07-28,P05,Potato Chips,Snacks,20,1.3
+2026-07-28,P06,Salted Peanuts,Snacks,21,0.9
+2026-07-28,P07,Cookies,Snacks,9,1.2
+2026-07-28,P08,Chocolate Bar,Snacks,25,0.85
+2026-07-28,P09,Whole Milk 1L,Dairy,15,1.2
+2026-07-28,P10,Yogurt 1kg,Dairy,4,2.2
+2026-07-28,P11,Cheese 400g,Dairy,3,3.8
+2026-07-28,P12,Butter 200g,Dairy,4,1.9
+2026-07-28,P13,Dish Soap,Cleaning,11,1.9
+2026-07-28,P14,Laundry Detergent,Cleaning,4,5.2
+2026-07-28,P15,Bleach 1L,Cleaning,8,1.5
+2026-07-28,P16,Paper Towels,Cleaning,5,2.5
+2026-07-29,P01,Cola 600ml,Beverages,30,1.0
+2026-07-29,P02,Orange Soda 600ml,Beverages,13,0.95
+2026-07-29,P03,Bottled Water 1L,Beverages,40,0.6
+2026-07-29,P04,Fruit Juice 1L,Beverages,9,1.5
+2026-07-29,P05,Potato Chips,Snacks,16,1.3
+2026-07-29,P06,Salted Peanuts,Snacks,14,0.9
+2026-07-29,P07,Cookies,Snacks,16,1.2
+2026-07-29,P08,Chocolate Bar,Snacks,30,0.85
+2026-07-29,P09,Whole Milk 1L,Dairy,25,1.2
+2026-07-29,P10,Yogurt 1kg,Dairy,7,2.2
+2026-07-29,P11,Cheese 400g,Dairy,6,3.8
+2026-07-29,P12,Butter 200g,Dairy,5,1.9
+2026-07-29,P13,Dish Soap,Cleaning,11,1.9
+2026-07-29,P14,Laundry Detergent,Cleaning,5,5.2
+2026-07-29,P15,Bleach 1L,Cleaning,8,1.5
+2026-07-29,P16,Paper Towels,Cleaning,9,2.5
+2026-07-30,P01,Cola 600ml,Beverages,23,1.0
+2026-07-30,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-07-30,P03,Bottled Water 1L,Beverages,31,0.6
+2026-07-30,P04,Fruit Juice 1L,Beverages,17,1.5
+2026-07-30,P05,Potato Chips,Snacks,20,1.3
+2026-07-30,P06,Salted Peanuts,Snacks,13,0.9
+2026-07-30,P07,Cookies,Snacks,12,1.2
+2026-07-30,P08,Chocolate Bar,Snacks,26,0.85
+2026-07-30,P09,Whole Milk 1L,Dairy,20,1.2
+2026-07-30,P10,Yogurt 1kg,Dairy,11,2.2
+2026-07-30,P11,Cheese 400g,Dairy,4,3.8
+2026-07-30,P12,Butter 200g,Dairy,8,1.9
+2026-07-30,P13,Dish Soap,Cleaning,6,1.9
+2026-07-30,P14,Laundry Detergent,Cleaning,4,5.2
+2026-07-30,P15,Bleach 1L,Cleaning,10,1.5
+2026-07-30,P16,Paper Towels,Cleaning,5,2.5
+2026-07-31,P01,Cola 600ml,Beverages,29,1.0
+2026-07-31,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-07-31,P03,Bottled Water 1L,Beverages,27,0.6
+2026-07-31,P04,Fruit Juice 1L,Beverages,18,1.5
+2026-07-31,P05,Potato Chips,Snacks,30,1.3
+2026-07-31,P06,Salted Peanuts,Snacks,9,0.9
+2026-07-31,P07,Cookies,Snacks,13,1.2
+2026-07-31,P08,Chocolate Bar,Snacks,30,0.85
+2026-07-31,P09,Whole Milk 1L,Dairy,20,1.2
+2026-07-31,P10,Yogurt 1kg,Dairy,11,2.2
+2026-07-31,P11,Cheese 400g,Dairy,8,3.8
+2026-07-31,P12,Butter 200g,Dairy,8,1.9
+2026-07-31,P13,Dish Soap,Cleaning,10,1.9
+2026-07-31,P14,Laundry Detergent,Cleaning,6,5.2
+2026-07-31,P15,Bleach 1L,Cleaning,8,1.5
+2026-07-31,P16,Paper Towels,Cleaning,10,2.5
+2026-08-01,P01,Cola 600ml,Beverages,33,1.0
+2026-08-01,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-08-01,P03,Bottled Water 1L,Beverages,38,0.6
+2026-08-01,P04,Fruit Juice 1L,Beverages,17,1.5
+2026-08-01,P05,Potato Chips,Snacks,27,1.3
+2026-08-01,P06,Salted Peanuts,Snacks,19,0.9
+2026-08-01,P07,Cookies,Snacks,18,1.2
+2026-08-01,P08,Chocolate Bar,Snacks,35,0.85
+2026-08-01,P09,Whole Milk 1L,Dairy,42,1.2
+2026-08-01,P10,Yogurt 1kg,Dairy,15,2.2
+2026-08-01,P11,Cheese 400g,Dairy,11,3.8
+2026-08-01,P12,Butter 200g,Dairy,10,1.9
+2026-08-01,P13,Dish Soap,Cleaning,15,1.9
+2026-08-01,P14,Laundry Detergent,Cleaning,7,5.2
+2026-08-01,P15,Bleach 1L,Cleaning,12,1.5
+2026-08-01,P16,Paper Towels,Cleaning,11,2.5
+2026-08-02,P01,Cola 600ml,Beverages,36,1.0
+2026-08-02,P02,Orange Soda 600ml,Beverages,20,0.95
+2026-08-02,P03,Bottled Water 1L,Beverages,41,0.6
+2026-08-02,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-08-02,P05,Potato Chips,Snacks,27,1.3
+2026-08-02,P06,Salted Peanuts,Snacks,20,0.9
+2026-08-02,P07,Cookies,Snacks,27,1.2
+2026-08-02,P08,Chocolate Bar,Snacks,31,0.85
+2026-08-02,P09,Whole Milk 1L,Dairy,38,1.2
+2026-08-02,P10,Yogurt 1kg,Dairy,14,2.2
+2026-08-02,P11,Cheese 400g,Dairy,8,3.8
+2026-08-02,P12,Butter 200g,Dairy,6,1.9
+2026-08-02,P13,Dish Soap,Cleaning,10,1.9
+2026-08-02,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-02,P15,Bleach 1L,Cleaning,12,1.5
+2026-08-02,P16,Paper Towels,Cleaning,9,2.5
+2026-08-03,P01,Cola 600ml,Beverages,31,1.0
+2026-08-03,P02,Orange Soda 600ml,Beverages,19,0.95
+2026-08-03,P03,Bottled Water 1L,Beverages,39,0.6
+2026-08-03,P04,Fruit Juice 1L,Beverages,16,1.5
+2026-08-03,P05,Potato Chips,Snacks,18,1.3
+2026-08-03,P06,Salted Peanuts,Snacks,14,0.9
+2026-08-03,P07,Cookies,Snacks,15,1.2
+2026-08-03,P08,Chocolate Bar,Snacks,14,0.85
+2026-08-03,P09,Whole Milk 1L,Dairy,29,1.2
+2026-08-03,P10,Yogurt 1kg,Dairy,13,2.2
+2026-08-03,P11,Cheese 400g,Dairy,7,3.8
+2026-08-03,P12,Butter 200g,Dairy,6,1.9
+2026-08-03,P13,Dish Soap,Cleaning,12,1.9
+2026-08-03,P14,Laundry Detergent,Cleaning,2,5.2
+2026-08-03,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-03,P16,Paper Towels,Cleaning,8,2.5
+2026-08-04,P01,Cola 600ml,Beverages,23,1.0
+2026-08-04,P02,Orange Soda 600ml,Beverages,25,0.95
+2026-08-04,P03,Bottled Water 1L,Beverages,38,0.6
+2026-08-04,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-08-04,P05,Potato Chips,Snacks,20,1.3
+2026-08-04,P06,Salted Peanuts,Snacks,13,0.9
+2026-08-04,P07,Cookies,Snacks,15,1.2
+2026-08-04,P08,Chocolate Bar,Snacks,16,0.85
+2026-08-04,P09,Whole Milk 1L,Dairy,33,1.2
+2026-08-04,P10,Yogurt 1kg,Dairy,13,2.2
+2026-08-04,P11,Cheese 400g,Dairy,9,3.8
+2026-08-04,P12,Butter 200g,Dairy,5,1.9
+2026-08-04,P13,Dish Soap,Cleaning,14,1.9
+2026-08-04,P14,Laundry Detergent,Cleaning,8,5.2
+2026-08-04,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-04,P16,Paper Towels,Cleaning,6,2.5
+2026-08-05,P01,Cola 600ml,Beverages,21,1.0
+2026-08-05,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-08-05,P03,Bottled Water 1L,Beverages,24,0.6
+2026-08-05,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-08-05,P05,Potato Chips,Snacks,26,1.3
+2026-08-05,P06,Salted Peanuts,Snacks,9,0.9
+2026-08-05,P07,Cookies,Snacks,25,1.2
+2026-08-05,P08,Chocolate Bar,Snacks,31,0.85
+2026-08-05,P09,Whole Milk 1L,Dairy,18,1.2
+2026-08-05,P10,Yogurt 1kg,Dairy,7,2.2
+2026-08-05,P11,Cheese 400g,Dairy,7,3.8
+2026-08-05,P12,Butter 200g,Dairy,5,1.9
+2026-08-05,P13,Dish Soap,Cleaning,9,1.9
+2026-08-05,P14,Laundry Detergent,Cleaning,2,5.2
+2026-08-05,P15,Bleach 1L,Cleaning,8,1.5
+2026-08-05,P16,Paper Towels,Cleaning,10,2.5
+2026-08-06,P01,Cola 600ml,Beverages,20,1.0
+2026-08-06,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-08-06,P03,Bottled Water 1L,Beverages,20,0.6
+2026-08-06,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-08-06,P05,Potato Chips,Snacks,20,1.3
+2026-08-06,P06,Salted Peanuts,Snacks,21,0.9
+2026-08-06,P07,Cookies,Snacks,17,1.2
+2026-08-06,P08,Chocolate Bar,Snacks,21,0.85
+2026-08-06,P09,Whole Milk 1L,Dairy,28,1.2
+2026-08-06,P10,Yogurt 1kg,Dairy,9,2.2
+2026-08-06,P11,Cheese 400g,Dairy,5,3.8
+2026-08-06,P12,Butter 200g,Dairy,7,1.9
+2026-08-06,P13,Dish Soap,Cleaning,9,1.9
+2026-08-06,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-06,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-06,P16,Paper Towels,Cleaning,6,2.5
+2026-08-07,P01,Cola 600ml,Beverages,34,1.0
+2026-08-07,P02,Orange Soda 600ml,Beverages,29,0.95
+2026-08-07,P03,Bottled Water 1L,Beverages,28,0.6
+2026-08-07,P04,Fruit Juice 1L,Beverages,20,1.5
+2026-08-07,P05,Potato Chips,Snacks,23,1.3
+2026-08-07,P06,Salted Peanuts,Snacks,14,0.9
+2026-08-07,P07,Cookies,Snacks,29,1.2
+2026-08-07,P08,Chocolate Bar,Snacks,27,0.85
+2026-08-07,P09,Whole Milk 1L,Dairy,37,1.2
+2026-08-07,P10,Yogurt 1kg,Dairy,14,2.2
+2026-08-07,P11,Cheese 400g,Dairy,5,3.8
+2026-08-07,P12,Butter 200g,Dairy,7,1.9
+2026-08-07,P13,Dish Soap,Cleaning,10,1.9
+2026-08-07,P14,Laundry Detergent,Cleaning,4,5.2
+2026-08-07,P15,Bleach 1L,Cleaning,6,1.5
+2026-08-07,P16,Paper Towels,Cleaning,9,2.5
+2026-08-08,P01,Cola 600ml,Beverages,40,1.0
+2026-08-08,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-08-08,P03,Bottled Water 1L,Beverages,40,0.6
+2026-08-08,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-08-08,P05,Potato Chips,Snacks,23,1.3
+2026-08-08,P06,Salted Peanuts,Snacks,18,0.9
+2026-08-08,P07,Cookies,Snacks,18,1.2
+2026-08-08,P08,Chocolate Bar,Snacks,30,0.85
+2026-08-08,P09,Whole Milk 1L,Dairy,34,1.2
+2026-08-08,P10,Yogurt 1kg,Dairy,12,2.2
+2026-08-08,P11,Cheese 400g,Dairy,9,3.8
+2026-08-08,P12,Butter 200g,Dairy,7,1.9
+2026-08-08,P13,Dish Soap,Cleaning,13,1.9
+2026-08-08,P14,Laundry Detergent,Cleaning,8,5.2
+2026-08-08,P15,Bleach 1L,Cleaning,12,1.5
+2026-08-08,P16,Paper Towels,Cleaning,11,2.5
+2026-08-09,P01,Cola 600ml,Beverages,24,1.0
+2026-08-09,P02,Orange Soda 600ml,Beverages,23,0.95
+2026-08-09,P03,Bottled Water 1L,Beverages,43,0.6
+2026-08-09,P04,Fruit Juice 1L,Beverages,18,1.5
+2026-08-09,P05,Potato Chips,Snacks,19,1.3
+2026-08-09,P06,Salted Peanuts,Snacks,19,0.9
+2026-08-09,P07,Cookies,Snacks,26,1.2
+2026-08-09,P08,Chocolate Bar,Snacks,29,0.85
+2026-08-09,P09,Whole Milk 1L,Dairy,32,1.2
+2026-08-09,P10,Yogurt 1kg,Dairy,15,2.2
+2026-08-09,P11,Cheese 400g,Dairy,10,3.8
+2026-08-09,P12,Butter 200g,Dairy,9,1.9
+2026-08-09,P13,Dish Soap,Cleaning,12,1.9
+2026-08-09,P14,Laundry Detergent,Cleaning,7,5.2
+2026-08-09,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-09,P16,Paper Towels,Cleaning,9,2.5
+2026-08-10,P01,Cola 600ml,Beverages,35,1.0
+2026-08-10,P02,Orange Soda 600ml,Beverages,18,0.95
+2026-08-10,P03,Bottled Water 1L,Beverages,30,0.6
+2026-08-10,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-08-10,P05,Potato Chips,Snacks,25,1.3
+2026-08-10,P06,Salted Peanuts,Snacks,12,0.9
+2026-08-10,P07,Cookies,Snacks,20,1.2
+2026-08-10,P08,Chocolate Bar,Snacks,18,0.85
+2026-08-10,P09,Whole Milk 1L,Dairy,19,1.2
+2026-08-10,P10,Yogurt 1kg,Dairy,11,2.2
+2026-08-10,P11,Cheese 400g,Dairy,8,3.8
+2026-08-10,P12,Butter 200g,Dairy,7,1.9
+2026-08-10,P13,Dish Soap,Cleaning,12,1.9
+2026-08-10,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-10,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-10,P16,Paper Towels,Cleaning,6,2.5
+2026-08-11,P01,Cola 600ml,Beverages,35,1.0
+2026-08-11,P02,Orange Soda 600ml,Beverages,22,0.95
+2026-08-11,P03,Bottled Water 1L,Beverages,35,0.6
+2026-08-11,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-08-11,P05,Potato Chips,Snacks,17,1.3
+2026-08-11,P06,Salted Peanuts,Snacks,13,0.9
+2026-08-11,P07,Cookies,Snacks,19,1.2
+2026-08-11,P08,Chocolate Bar,Snacks,23,0.85
+2026-08-11,P09,Whole Milk 1L,Dairy,26,1.2
+2026-08-11,P10,Yogurt 1kg,Dairy,7,2.2
+2026-08-11,P11,Cheese 400g,Dairy,8,3.8
+2026-08-11,P12,Butter 200g,Dairy,5,1.9
+2026-08-11,P13,Dish Soap,Cleaning,7,1.9
+2026-08-11,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-11,P15,Bleach 1L,Cleaning,5,1.5
+2026-08-11,P16,Paper Towels,Cleaning,9,2.5
+2026-08-12,P01,Cola 600ml,Beverages,33,1.0
+2026-08-12,P02,Orange Soda 600ml,Beverages,18,0.95
+2026-08-12,P03,Bottled Water 1L,Beverages,24,0.6
+2026-08-12,P04,Fruit Juice 1L,Beverages,10,1.5
+2026-08-12,P05,Potato Chips,Snacks,20,1.3
+2026-08-12,P06,Salted Peanuts,Snacks,6,0.9
+2026-08-12,P07,Cookies,Snacks,17,1.2
+2026-08-12,P08,Chocolate Bar,Snacks,27,0.85
+2026-08-12,P09,Whole Milk 1L,Dairy,23,1.2
+2026-08-12,P10,Yogurt 1kg,Dairy,9,2.2
+2026-08-12,P11,Cheese 400g,Dairy,8,3.8
+2026-08-12,P12,Butter 200g,Dairy,7,1.9
+2026-08-12,P13,Dish Soap,Cleaning,12,1.9
+2026-08-12,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-12,P15,Bleach 1L,Cleaning,7,1.5
+2026-08-12,P16,Paper Towels,Cleaning,6,2.5
+2026-08-13,P01,Cola 600ml,Beverages,28,1.0
+2026-08-13,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-08-13,P03,Bottled Water 1L,Beverages,29,0.6
+2026-08-13,P04,Fruit Juice 1L,Beverages,9,1.5
+2026-08-13,P05,Potato Chips,Snacks,16,1.3
+2026-08-13,P06,Salted Peanuts,Snacks,7,0.9
+2026-08-13,P07,Cookies,Snacks,18,1.2
+2026-08-13,P08,Chocolate Bar,Snacks,15,0.85
+2026-08-13,P09,Whole Milk 1L,Dairy,18,1.2
+2026-08-13,P10,Yogurt 1kg,Dairy,5,2.2
+2026-08-13,P11,Cheese 400g,Dairy,5,3.8
+2026-08-13,P12,Butter 200g,Dairy,7,1.9
+2026-08-13,P13,Dish Soap,Cleaning,6,1.9
+2026-08-13,P14,Laundry Detergent,Cleaning,3,5.2
+2026-08-13,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-13,P16,Paper Towels,Cleaning,7,2.5
+2026-08-14,P01,Cola 600ml,Beverages,34,1.0
+2026-08-14,P02,Orange Soda 600ml,Beverages,25,0.95
+2026-08-14,P03,Bottled Water 1L,Beverages,36,0.6
+2026-08-14,P04,Fruit Juice 1L,Beverages,10,1.5
+2026-08-14,P05,Potato Chips,Snacks,23,1.3
+2026-08-14,P06,Salted Peanuts,Snacks,18,0.9
+2026-08-14,P07,Cookies,Snacks,17,1.2
+2026-08-14,P08,Chocolate Bar,Snacks,18,0.85
+2026-08-14,P09,Whole Milk 1L,Dairy,35,1.2
+2026-08-14,P10,Yogurt 1kg,Dairy,11,2.2
+2026-08-14,P11,Cheese 400g,Dairy,8,3.8
+2026-08-14,P12,Butter 200g,Dairy,7,1.9
+2026-08-14,P13,Dish Soap,Cleaning,13,1.9
+2026-08-14,P14,Laundry Detergent,Cleaning,6,5.2
+2026-08-14,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-14,P16,Paper Towels,Cleaning,10,2.5
+2026-08-15,P01,Cola 600ml,Beverages,50,1.0
+2026-08-15,P02,Orange Soda 600ml,Beverages,32,0.95
+2026-08-15,P03,Bottled Water 1L,Beverages,47,0.6
+2026-08-15,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-08-15,P05,Potato Chips,Snacks,47,1.3
+2026-08-15,P06,Salted Peanuts,Snacks,15,0.9
+2026-08-15,P07,Cookies,Snacks,21,1.2
+2026-08-15,P08,Chocolate Bar,Snacks,27,0.85
+2026-08-15,P09,Whole Milk 1L,Dairy,43,1.2
+2026-08-15,P10,Yogurt 1kg,Dairy,15,2.2
+2026-08-15,P11,Cheese 400g,Dairy,7,3.8
+2026-08-15,P12,Butter 200g,Dairy,9,1.9
+2026-08-15,P13,Dish Soap,Cleaning,14,1.9
+2026-08-15,P14,Laundry Detergent,Cleaning,7,5.2
+2026-08-15,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-15,P16,Paper Towels,Cleaning,9,2.5
+2026-08-16,P01,Cola 600ml,Beverages,32,1.0
+2026-08-16,P02,Orange Soda 600ml,Beverages,24,0.95
+2026-08-16,P03,Bottled Water 1L,Beverages,37,0.6
+2026-08-16,P04,Fruit Juice 1L,Beverages,18,1.5
+2026-08-16,P05,Potato Chips,Snacks,22,1.3
+2026-08-16,P06,Salted Peanuts,Snacks,13,0.9
+2026-08-16,P07,Cookies,Snacks,19,1.2
+2026-08-16,P08,Chocolate Bar,Snacks,37,0.85
+2026-08-16,P09,Whole Milk 1L,Dairy,29,1.2
+2026-08-16,P10,Yogurt 1kg,Dairy,19,2.2
+2026-08-16,P11,Cheese 400g,Dairy,10,3.8
+2026-08-16,P12,Butter 200g,Dairy,6,1.9
+2026-08-16,P13,Dish Soap,Cleaning,10,1.9
+2026-08-16,P14,Laundry Detergent,Cleaning,7,5.2
+2026-08-16,P15,Bleach 1L,Cleaning,8,1.5
+2026-08-16,P16,Paper Towels,Cleaning,14,2.5
+2026-08-17,P01,Cola 600ml,Beverages,21,1.0
+2026-08-17,P02,Orange Soda 600ml,Beverages,22,0.95
+2026-08-17,P03,Bottled Water 1L,Beverages,42,0.6
+2026-08-17,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-08-17,P05,Potato Chips,Snacks,16,1.3
+2026-08-17,P06,Salted Peanuts,Snacks,14,0.9
+2026-08-17,P07,Cookies,Snacks,18,1.2
+2026-08-17,P08,Chocolate Bar,Snacks,28,0.85
+2026-08-17,P09,Whole Milk 1L,Dairy,25,1.2
+2026-08-17,P10,Yogurt 1kg,Dairy,7,2.2
+2026-08-17,P11,Cheese 400g,Dairy,7,3.8
+2026-08-17,P12,Butter 200g,Dairy,5,1.9
+2026-08-17,P13,Dish Soap,Cleaning,4,1.9
+2026-08-17,P14,Laundry Detergent,Cleaning,4,5.2
+2026-08-17,P15,Bleach 1L,Cleaning,5,1.5
+2026-08-17,P16,Paper Towels,Cleaning,8,2.5
+2026-08-18,P01,Cola 600ml,Beverages,40,1.0
+2026-08-18,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-08-18,P03,Bottled Water 1L,Beverages,27,0.6
+2026-08-18,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-08-18,P05,Potato Chips,Snacks,24,1.3
+2026-08-18,P06,Salted Peanuts,Snacks,18,0.9
+2026-08-18,P07,Cookies,Snacks,15,1.2
+2026-08-18,P08,Chocolate Bar,Snacks,22,0.85
+2026-08-18,P09,Whole Milk 1L,Dairy,38,1.2
+2026-08-18,P10,Yogurt 1kg,Dairy,10,2.2
+2026-08-18,P11,Cheese 400g,Dairy,6,3.8
+2026-08-18,P12,Butter 200g,Dairy,6,1.9
+2026-08-18,P13,Dish Soap,Cleaning,11,1.9
+2026-08-18,P14,Laundry Detergent,Cleaning,4,5.2
+2026-08-18,P15,Bleach 1L,Cleaning,8,1.5
+2026-08-18,P16,Paper Towels,Cleaning,5,2.5
+2026-08-19,P01,Cola 600ml,Beverages,25,1.0
+2026-08-19,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-08-19,P03,Bottled Water 1L,Beverages,37,0.6
+2026-08-19,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-08-19,P05,Potato Chips,Snacks,16,1.3
+2026-08-19,P06,Salted Peanuts,Snacks,13,0.9
+2026-08-19,P07,Cookies,Snacks,21,1.2
+2026-08-19,P08,Chocolate Bar,Snacks,20,0.85
+2026-08-19,P09,Whole Milk 1L,Dairy,34,1.2
+2026-08-19,P10,Yogurt 1kg,Dairy,7,2.2
+2026-08-19,P11,Cheese 400g,Dairy,7,3.8
+2026-08-19,P12,Butter 200g,Dairy,9,1.9
+2026-08-19,P13,Dish Soap,Cleaning,5,1.9
+2026-08-19,P14,Laundry Detergent,Cleaning,7,5.2
+2026-08-19,P15,Bleach 1L,Cleaning,5,1.5
+2026-08-19,P16,Paper Towels,Cleaning,7,2.5
+2026-08-20,P01,Cola 600ml,Beverages,26,1.0
+2026-08-20,P02,Orange Soda 600ml,Beverages,22,0.95
+2026-08-20,P03,Bottled Water 1L,Beverages,8,0.6
+2026-08-20,P04,Fruit Juice 1L,Beverages,7,1.5
+2026-08-20,P05,Potato Chips,Snacks,18,1.3
+2026-08-20,P06,Salted Peanuts,Snacks,15,0.9
+2026-08-20,P07,Cookies,Snacks,13,1.2
+2026-08-20,P08,Chocolate Bar,Snacks,22,0.85
+2026-08-20,P09,Whole Milk 1L,Dairy,18,1.2
+2026-08-20,P10,Yogurt 1kg,Dairy,9,2.2
+2026-08-20,P11,Cheese 400g,Dairy,6,3.8
+2026-08-20,P12,Butter 200g,Dairy,7,1.9
+2026-08-20,P13,Dish Soap,Cleaning,11,1.9
+2026-08-20,P14,Laundry Detergent,Cleaning,7,5.2
+2026-08-20,P15,Bleach 1L,Cleaning,7,1.5
+2026-08-20,P16,Paper Towels,Cleaning,7,2.5
+2026-08-21,P01,Cola 600ml,Beverages,31,1.0
+2026-08-21,P02,Orange Soda 600ml,Beverages,20,0.95
+2026-08-21,P03,Bottled Water 1L,Beverages,35,0.6
+2026-08-21,P04,Fruit Juice 1L,Beverages,10,1.5
+2026-08-21,P05,Potato Chips,Snacks,26,1.3
+2026-08-21,P06,Salted Peanuts,Snacks,14,0.9
+2026-08-21,P07,Cookies,Snacks,15,1.2
+2026-08-21,P08,Chocolate Bar,Snacks,18,0.85
+2026-08-21,P09,Whole Milk 1L,Dairy,36,1.2
+2026-08-21,P10,Yogurt 1kg,Dairy,12,2.2
+2026-08-21,P11,Cheese 400g,Dairy,10,3.8
+2026-08-21,P12,Butter 200g,Dairy,8,1.9
+2026-08-21,P13,Dish Soap,Cleaning,7,1.9
+2026-08-21,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-21,P15,Bleach 1L,Cleaning,11,1.5
+2026-08-21,P16,Paper Towels,Cleaning,7,2.5
+2026-08-22,P01,Cola 600ml,Beverages,29,1.0
+2026-08-22,P02,Orange Soda 600ml,Beverages,24,0.95
+2026-08-22,P03,Bottled Water 1L,Beverages,41,0.6
+2026-08-22,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-08-22,P05,Potato Chips,Snacks,26,1.3
+2026-08-22,P06,Salted Peanuts,Snacks,18,0.9
+2026-08-22,P07,Cookies,Snacks,12,1.2
+2026-08-22,P08,Chocolate Bar,Snacks,34,0.85
+2026-08-22,P09,Whole Milk 1L,Dairy,29,1.2
+2026-08-22,P10,Yogurt 1kg,Dairy,17,2.2
+2026-08-22,P11,Cheese 400g,Dairy,8,3.8
+2026-08-22,P12,Butter 200g,Dairy,6,1.9
+2026-08-22,P13,Dish Soap,Cleaning,15,1.9
+2026-08-22,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-22,P15,Bleach 1L,Cleaning,10,1.5
+2026-08-22,P16,Paper Towels,Cleaning,11,2.5
+2026-08-23,P01,Cola 600ml,Beverages,33,1.0
+2026-08-23,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-08-23,P03,Bottled Water 1L,Beverages,42,0.6
+2026-08-23,P04,Fruit Juice 1L,Beverages,16,1.5
+2026-08-23,P05,Potato Chips,Snacks,33,1.3
+2026-08-23,P06,Salted Peanuts,Snacks,21,0.9
+2026-08-23,P07,Cookies,Snacks,34,1.2
+2026-08-23,P08,Chocolate Bar,Snacks,21,0.85
+2026-08-23,P09,Whole Milk 1L,Dairy,32,1.2
+2026-08-23,P10,Yogurt 1kg,Dairy,11,2.2
+2026-08-23,P11,Cheese 400g,Dairy,11,3.8
+2026-08-23,P12,Butter 200g,Dairy,9,1.9
+2026-08-23,P13,Dish Soap,Cleaning,14,1.9
+2026-08-23,P14,Laundry Detergent,Cleaning,6,5.2
+2026-08-23,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-23,P16,Paper Towels,Cleaning,6,2.5
+2026-08-24,P01,Cola 600ml,Beverages,38,1.0
+2026-08-24,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-08-24,P03,Bottled Water 1L,Beverages,29,0.6
+2026-08-24,P04,Fruit Juice 1L,Beverages,15,1.5
+2026-08-24,P05,Potato Chips,Snacks,25,1.3
+2026-08-24,P06,Salted Peanuts,Snacks,18,0.9
+2026-08-24,P07,Cookies,Snacks,10,1.2
+2026-08-24,P08,Chocolate Bar,Snacks,19,0.85
+2026-08-24,P09,Whole Milk 1L,Dairy,26,1.2
+2026-08-24,P10,Yogurt 1kg,Dairy,11,2.2
+2026-08-24,P11,Cheese 400g,Dairy,9,3.8
+2026-08-24,P12,Butter 200g,Dairy,5,1.9
+2026-08-24,P13,Dish Soap,Cleaning,10,1.9
+2026-08-24,P14,Laundry Detergent,Cleaning,8,5.2
+2026-08-24,P15,Bleach 1L,Cleaning,10,1.5
+2026-08-24,P16,Paper Towels,Cleaning,9,2.5
+2026-08-25,P01,Cola 600ml,Beverages,27,1.0
+2026-08-25,P02,Orange Soda 600ml,Beverages,22,0.95
+2026-08-25,P03,Bottled Water 1L,Beverages,45,0.6
+2026-08-25,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-08-25,P05,Potato Chips,Snacks,27,1.3
+2026-08-25,P06,Salted Peanuts,Snacks,11,0.9
+2026-08-25,P07,Cookies,Snacks,19,1.2
+2026-08-25,P08,Chocolate Bar,Snacks,28,0.85
+2026-08-25,P09,Whole Milk 1L,Dairy,20,1.2
+2026-08-25,P10,Yogurt 1kg,Dairy,13,2.2
+2026-08-25,P11,Cheese 400g,Dairy,6,3.8
+2026-08-25,P12,Butter 200g,Dairy,5,1.9
+2026-08-25,P13,Dish Soap,Cleaning,9,1.9
+2026-08-25,P14,Laundry Detergent,Cleaning,8,5.2
+2026-08-25,P15,Bleach 1L,Cleaning,9,1.5
+2026-08-25,P16,Paper Towels,Cleaning,9,2.5
+2026-08-26,P01,Cola 600ml,Beverages,22,1.0
+2026-08-26,P02,Orange Soda 600ml,Beverages,19,0.95
+2026-08-26,P03,Bottled Water 1L,Beverages,22,0.6
+2026-08-26,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-08-26,P05,Potato Chips,Snacks,25,1.3
+2026-08-26,P06,Salted Peanuts,Snacks,14,0.9
+2026-08-26,P07,Cookies,Snacks,22,1.2
+2026-08-26,P08,Chocolate Bar,Snacks,22,0.85
+2026-08-26,P09,Whole Milk 1L,Dairy,24,1.2
+2026-08-26,P10,Yogurt 1kg,Dairy,14,2.2
+2026-08-26,P11,Cheese 400g,Dairy,6,3.8
+2026-08-26,P12,Butter 200g,Dairy,4,1.9
+2026-08-26,P13,Dish Soap,Cleaning,12,1.9
+2026-08-26,P14,Laundry Detergent,Cleaning,6,5.2
+2026-08-26,P15,Bleach 1L,Cleaning,4,1.5
+2026-08-26,P16,Paper Towels,Cleaning,7,2.5
+2026-08-27,P01,Cola 600ml,Beverages,24,1.0
+2026-08-27,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-08-27,P03,Bottled Water 1L,Beverages,26,0.6
+2026-08-27,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-08-27,P05,Potato Chips,Snacks,16,1.3
+2026-08-27,P06,Salted Peanuts,Snacks,11,0.9
+2026-08-27,P07,Cookies,Snacks,14,1.2
+2026-08-27,P08,Chocolate Bar,Snacks,15,0.85
+2026-08-27,P09,Whole Milk 1L,Dairy,19,1.2
+2026-08-27,P10,Yogurt 1kg,Dairy,6,2.2
+2026-08-27,P11,Cheese 400g,Dairy,5,3.8
+2026-08-27,P12,Butter 200g,Dairy,4,1.9
+2026-08-27,P13,Dish Soap,Cleaning,8,1.9
+2026-08-27,P14,Laundry Detergent,Cleaning,4,5.2
+2026-08-27,P15,Bleach 1L,Cleaning,6,1.5
+2026-08-27,P16,Paper Towels,Cleaning,8,2.5
+2026-08-28,P01,Cola 600ml,Beverages,31,1.0
+2026-08-28,P02,Orange Soda 600ml,Beverages,20,0.95
+2026-08-28,P03,Bottled Water 1L,Beverages,32,0.6
+2026-08-28,P04,Fruit Juice 1L,Beverages,19,1.5
+2026-08-28,P05,Potato Chips,Snacks,25,1.3
+2026-08-28,P06,Salted Peanuts,Snacks,18,0.9
+2026-08-28,P07,Cookies,Snacks,9,1.2
+2026-08-28,P08,Chocolate Bar,Snacks,23,0.85
+2026-08-28,P09,Whole Milk 1L,Dairy,16,1.2
+2026-08-28,P10,Yogurt 1kg,Dairy,11,2.2
+2026-08-28,P11,Cheese 400g,Dairy,9,3.8
+2026-08-28,P12,Butter 200g,Dairy,6,1.9
+2026-08-28,P13,Dish Soap,Cleaning,12,1.9
+2026-08-28,P14,Laundry Detergent,Cleaning,5,5.2
+2026-08-28,P15,Bleach 1L,Cleaning,11,1.5
+2026-08-28,P16,Paper Towels,Cleaning,6,2.5
+2026-08-29,P01,Cola 600ml,Beverages,35,1.0
+2026-08-29,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-08-29,P03,Bottled Water 1L,Beverages,46,0.6
+2026-08-29,P04,Fruit Juice 1L,Beverages,16,1.5
+2026-08-29,P05,Potato Chips,Snacks,38,1.3
+2026-08-29,P06,Salted Peanuts,Snacks,18,0.9
+2026-08-29,P07,Cookies,Snacks,21,1.2
+2026-08-29,P08,Chocolate Bar,Snacks,16,0.85
+2026-08-29,P09,Whole Milk 1L,Dairy,44,1.2
+2026-08-29,P10,Yogurt 1kg,Dairy,13,2.2
+2026-08-29,P11,Cheese 400g,Dairy,8,3.8
+2026-08-29,P12,Butter 200g,Dairy,10,1.9
+2026-08-29,P13,Dish Soap,Cleaning,15,1.9
+2026-08-29,P14,Laundry Detergent,Cleaning,7,5.2
+2026-08-29,P15,Bleach 1L,Cleaning,8,1.5
+2026-08-29,P16,Paper Towels,Cleaning,11,2.5
+2026-08-30,P01,Cola 600ml,Beverages,31,1.0
+2026-08-30,P02,Orange Soda 600ml,Beverages,19,0.95
+2026-08-30,P03,Bottled Water 1L,Beverages,48,0.6
+2026-08-30,P04,Fruit Juice 1L,Beverages,10,1.5
+2026-08-30,P05,Potato Chips,Snacks,30,1.3
+2026-08-30,P06,Salted Peanuts,Snacks,21,0.9
+2026-08-30,P07,Cookies,Snacks,30,1.2
+2026-08-30,P08,Chocolate Bar,Snacks,32,0.85
+2026-08-30,P09,Whole Milk 1L,Dairy,20,1.2
+2026-08-30,P10,Yogurt 1kg,Dairy,11,2.2
+2026-08-30,P11,Cheese 400g,Dairy,10,3.8
+2026-08-30,P12,Butter 200g,Dairy,9,1.9
+2026-08-30,P13,Dish Soap,Cleaning,14,1.9
+2026-08-30,P14,Laundry Detergent,Cleaning,4,5.2
+2026-08-30,P15,Bleach 1L,Cleaning,10,1.5
+2026-08-30,P16,Paper Towels,Cleaning,11,2.5
+2026-08-31,P01,Cola 600ml,Beverages,37,1.0
+2026-08-31,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-08-31,P03,Bottled Water 1L,Beverages,28,0.6
+2026-08-31,P04,Fruit Juice 1L,Beverages,16,1.5
+2026-08-31,P05,Potato Chips,Snacks,29,1.3
+2026-08-31,P06,Salted Peanuts,Snacks,19,0.9
+2026-08-31,P07,Cookies,Snacks,20,1.2
+2026-08-31,P08,Chocolate Bar,Snacks,27,0.85
+2026-08-31,P09,Whole Milk 1L,Dairy,20,1.2
+2026-08-31,P10,Yogurt 1kg,Dairy,7,2.2
+2026-08-31,P11,Cheese 400g,Dairy,9,3.8
+2026-08-31,P12,Butter 200g,Dairy,6,1.9
+2026-08-31,P13,Dish Soap,Cleaning,9,1.9
+2026-08-31,P14,Laundry Detergent,Cleaning,4,5.2
+2026-08-31,P15,Bleach 1L,Cleaning,8,1.5
+2026-08-31,P16,Paper Towels,Cleaning,8,2.5
+2026-09-01,P01,Cola 600ml,Beverages,21,1.0
+2026-09-01,P02,Orange Soda 600ml,Beverages,20,0.95
+2026-09-01,P03,Bottled Water 1L,Beverages,34,0.6
+2026-09-01,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-09-01,P05,Potato Chips,Snacks,18,1.3
+2026-09-01,P06,Salted Peanuts,Snacks,18,0.9
+2026-09-01,P07,Cookies,Snacks,25,1.2
+2026-09-01,P08,Chocolate Bar,Snacks,20,0.85
+2026-09-01,P09,Whole Milk 1L,Dairy,33,1.2
+2026-09-01,P10,Yogurt 1kg,Dairy,13,2.2
+2026-09-01,P11,Cheese 400g,Dairy,3,3.8
+2026-09-01,P12,Butter 200g,Dairy,5,1.9
+2026-09-01,P13,Dish Soap,Cleaning,8,1.9
+2026-09-01,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-01,P15,Bleach 1L,Cleaning,9,1.5
+2026-09-01,P16,Paper Towels,Cleaning,8,2.5
+2026-09-02,P01,Cola 600ml,Beverages,32,1.0
+2026-09-02,P02,Orange Soda 600ml,Beverages,15,0.95
+2026-09-02,P03,Bottled Water 1L,Beverages,27,0.6
+2026-09-02,P04,Fruit Juice 1L,Beverages,9,1.5
+2026-09-02,P05,Potato Chips,Snacks,21,1.3
+2026-09-02,P06,Salted Peanuts,Snacks,15,0.9
+2026-09-02,P07,Cookies,Snacks,18,1.2
+2026-09-02,P08,Chocolate Bar,Snacks,20,0.85
+2026-09-02,P09,Whole Milk 1L,Dairy,31,1.2
+2026-09-02,P10,Yogurt 1kg,Dairy,13,2.2
+2026-09-02,P11,Cheese 400g,Dairy,10,3.8
+2026-09-02,P12,Butter 200g,Dairy,8,1.9
+2026-09-02,P13,Dish Soap,Cleaning,10,1.9
+2026-09-02,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-02,P15,Bleach 1L,Cleaning,10,1.5
+2026-09-02,P16,Paper Towels,Cleaning,6,2.5
+2026-09-03,P01,Cola 600ml,Beverages,36,1.0
+2026-09-03,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-09-03,P03,Bottled Water 1L,Beverages,47,0.6
+2026-09-03,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-09-03,P05,Potato Chips,Snacks,23,1.3
+2026-09-03,P06,Salted Peanuts,Snacks,17,0.9
+2026-09-03,P07,Cookies,Snacks,17,1.2
+2026-09-03,P08,Chocolate Bar,Snacks,27,0.85
+2026-09-03,P09,Whole Milk 1L,Dairy,25,1.2
+2026-09-03,P10,Yogurt 1kg,Dairy,10,2.2
+2026-09-03,P11,Cheese 400g,Dairy,11,3.8
+2026-09-03,P12,Butter 200g,Dairy,7,1.9
+2026-09-03,P13,Dish Soap,Cleaning,10,1.9
+2026-09-03,P14,Laundry Detergent,Cleaning,7,5.2
+2026-09-03,P15,Bleach 1L,Cleaning,9,1.5
+2026-09-03,P16,Paper Towels,Cleaning,8,2.5
+2026-09-04,P01,Cola 600ml,Beverages,32,1.0
+2026-09-04,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-09-04,P03,Bottled Water 1L,Beverages,37,0.6
+2026-09-04,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-09-04,P05,Potato Chips,Snacks,26,1.3
+2026-09-04,P06,Salted Peanuts,Snacks,13,0.9
+2026-09-04,P07,Cookies,Snacks,24,1.2
+2026-09-04,P08,Chocolate Bar,Snacks,31,0.85
+2026-09-04,P09,Whole Milk 1L,Dairy,31,1.2
+2026-09-04,P10,Yogurt 1kg,Dairy,12,2.2
+2026-09-04,P11,Cheese 400g,Dairy,9,3.8
+2026-09-04,P12,Butter 200g,Dairy,5,1.9
+2026-09-04,P13,Dish Soap,Cleaning,9,1.9
+2026-09-04,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-04,P15,Bleach 1L,Cleaning,11,1.5
+2026-09-04,P16,Paper Towels,Cleaning,9,2.5
+2026-09-05,P01,Cola 600ml,Beverages,31,1.0
+2026-09-05,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-09-05,P03,Bottled Water 1L,Beverages,40,0.6
+2026-09-05,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-09-05,P05,Potato Chips,Snacks,31,1.3
+2026-09-05,P06,Salted Peanuts,Snacks,20,0.9
+2026-09-05,P07,Cookies,Snacks,28,1.2
+2026-09-05,P08,Chocolate Bar,Snacks,36,0.85
+2026-09-05,P09,Whole Milk 1L,Dairy,39,1.2
+2026-09-05,P10,Yogurt 1kg,Dairy,15,2.2
+2026-09-05,P11,Cheese 400g,Dairy,9,3.8
+2026-09-05,P12,Butter 200g,Dairy,7,1.9
+2026-09-05,P13,Dish Soap,Cleaning,10,1.9
+2026-09-05,P14,Laundry Detergent,Cleaning,11,5.2
+2026-09-05,P15,Bleach 1L,Cleaning,10,1.5
+2026-09-05,P16,Paper Towels,Cleaning,10,2.5
+2026-09-06,P01,Cola 600ml,Beverages,34,1.0
+2026-09-06,P02,Orange Soda 600ml,Beverages,24,0.95
+2026-09-06,P03,Bottled Water 1L,Beverages,38,0.6
+2026-09-06,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-09-06,P05,Potato Chips,Snacks,23,1.3
+2026-09-06,P06,Salted Peanuts,Snacks,15,0.9
+2026-09-06,P07,Cookies,Snacks,22,1.2
+2026-09-06,P08,Chocolate Bar,Snacks,27,0.85
+2026-09-06,P09,Whole Milk 1L,Dairy,30,1.2
+2026-09-06,P10,Yogurt 1kg,Dairy,15,2.2
+2026-09-06,P11,Cheese 400g,Dairy,9,3.8
+2026-09-06,P12,Butter 200g,Dairy,10,1.9
+2026-09-06,P13,Dish Soap,Cleaning,12,1.9
+2026-09-06,P14,Laundry Detergent,Cleaning,7,5.2
+2026-09-06,P15,Bleach 1L,Cleaning,9,1.5
+2026-09-06,P16,Paper Towels,Cleaning,11,2.5
+2026-09-07,P01,Cola 600ml,Beverages,25,1.0
+2026-09-07,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-09-07,P03,Bottled Water 1L,Beverages,35,0.6
+2026-09-07,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-09-07,P05,Potato Chips,Snacks,23,1.3
+2026-09-07,P06,Salted Peanuts,Snacks,14,0.9
+2026-09-07,P07,Cookies,Snacks,23,1.2
+2026-09-07,P08,Chocolate Bar,Snacks,29,0.85
+2026-09-07,P09,Whole Milk 1L,Dairy,29,1.2
+2026-09-07,P10,Yogurt 1kg,Dairy,8,2.2
+2026-09-07,P11,Cheese 400g,Dairy,6,3.8
+2026-09-07,P12,Butter 200g,Dairy,5,1.9
+2026-09-07,P13,Dish Soap,Cleaning,9,1.9
+2026-09-07,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-07,P15,Bleach 1L,Cleaning,7,1.5
+2026-09-07,P16,Paper Towels,Cleaning,10,2.5
+2026-09-08,P01,Cola 600ml,Beverages,28,1.0
+2026-09-08,P02,Orange Soda 600ml,Beverages,10,0.95
+2026-09-08,P03,Bottled Water 1L,Beverages,29,0.6
+2026-09-08,P04,Fruit Juice 1L,Beverages,5,1.5
+2026-09-08,P05,Potato Chips,Snacks,18,1.3
+2026-09-08,P06,Salted Peanuts,Snacks,13,0.9
+2026-09-08,P07,Cookies,Snacks,15,1.2
+2026-09-08,P08,Chocolate Bar,Snacks,22,0.85
+2026-09-08,P09,Whole Milk 1L,Dairy,24,1.2
+2026-09-08,P10,Yogurt 1kg,Dairy,9,2.2
+2026-09-08,P11,Cheese 400g,Dairy,10,3.8
+2026-09-08,P12,Butter 200g,Dairy,8,1.9
+2026-09-08,P13,Dish Soap,Cleaning,7,1.9
+2026-09-08,P14,Laundry Detergent,Cleaning,7,5.2
+2026-09-08,P15,Bleach 1L,Cleaning,5,1.5
+2026-09-08,P16,Paper Towels,Cleaning,6,2.5
+2026-09-09,P01,Cola 600ml,Beverages,38,1.0
+2026-09-09,P02,Orange Soda 600ml,Beverages,9,0.95
+2026-09-09,P03,Bottled Water 1L,Beverages,37,0.6
+2026-09-09,P04,Fruit Juice 1L,Beverages,9,1.5
+2026-09-09,P05,Potato Chips,Snacks,21,1.3
+2026-09-09,P06,Salted Peanuts,Snacks,14,0.9
+2026-09-09,P07,Cookies,Snacks,24,1.2
+2026-09-09,P08,Chocolate Bar,Snacks,19,0.85
+2026-09-09,P09,Whole Milk 1L,Dairy,26,1.2
+2026-09-09,P10,Yogurt 1kg,Dairy,12,2.2
+2026-09-09,P11,Cheese 400g,Dairy,7,3.8
+2026-09-09,P12,Butter 200g,Dairy,5,1.9
+2026-09-09,P13,Dish Soap,Cleaning,10,1.9
+2026-09-09,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-09,P15,Bleach 1L,Cleaning,10,1.5
+2026-09-09,P16,Paper Towels,Cleaning,6,2.5
+2026-09-10,P01,Cola 600ml,Beverages,25,1.0
+2026-09-10,P02,Orange Soda 600ml,Beverages,21,0.95
+2026-09-10,P03,Bottled Water 1L,Beverages,31,0.6
+2026-09-10,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-09-10,P05,Potato Chips,Snacks,22,1.3
+2026-09-10,P06,Salted Peanuts,Snacks,13,0.9
+2026-09-10,P07,Cookies,Snacks,14,1.2
+2026-09-10,P08,Chocolate Bar,Snacks,26,0.85
+2026-09-10,P09,Whole Milk 1L,Dairy,19,1.2
+2026-09-10,P10,Yogurt 1kg,Dairy,14,2.2
+2026-09-10,P11,Cheese 400g,Dairy,8,3.8
+2026-09-10,P12,Butter 200g,Dairy,5,1.9
+2026-09-10,P13,Dish Soap,Cleaning,10,1.9
+2026-09-10,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-10,P15,Bleach 1L,Cleaning,10,1.5
+2026-09-10,P16,Paper Towels,Cleaning,10,2.5
+2026-09-11,P01,Cola 600ml,Beverages,30,1.0
+2026-09-11,P02,Orange Soda 600ml,Beverages,19,0.95
+2026-09-11,P03,Bottled Water 1L,Beverages,33,0.6
+2026-09-11,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-09-11,P05,Potato Chips,Snacks,21,1.3
+2026-09-11,P06,Salted Peanuts,Snacks,18,0.9
+2026-09-11,P07,Cookies,Snacks,20,1.2
+2026-09-11,P08,Chocolate Bar,Snacks,25,0.85
+2026-09-11,P09,Whole Milk 1L,Dairy,25,1.2
+2026-09-11,P10,Yogurt 1kg,Dairy,13,2.2
+2026-09-11,P11,Cheese 400g,Dairy,8,3.8
+2026-09-11,P12,Butter 200g,Dairy,6,1.9
+2026-09-11,P13,Dish Soap,Cleaning,11,1.9
+2026-09-11,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-11,P15,Bleach 1L,Cleaning,8,1.5
+2026-09-11,P16,Paper Towels,Cleaning,10,2.5
+2026-09-12,P01,Cola 600ml,Beverages,43,1.0
+2026-09-12,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-09-12,P03,Bottled Water 1L,Beverages,45,0.6
+2026-09-12,P04,Fruit Juice 1L,Beverages,19,1.5
+2026-09-12,P05,Potato Chips,Snacks,29,1.3
+2026-09-12,P06,Salted Peanuts,Snacks,24,0.9
+2026-09-12,P07,Cookies,Snacks,30,1.2
+2026-09-12,P08,Chocolate Bar,Snacks,33,0.85
+2026-09-12,P09,Whole Milk 1L,Dairy,38,1.2
+2026-09-12,P10,Yogurt 1kg,Dairy,17,2.2
+2026-09-12,P11,Cheese 400g,Dairy,10,3.8
+2026-09-12,P12,Butter 200g,Dairy,7,1.9
+2026-09-12,P13,Dish Soap,Cleaning,15,1.9
+2026-09-12,P14,Laundry Detergent,Cleaning,5,5.2
+2026-09-12,P15,Bleach 1L,Cleaning,15,1.5
+2026-09-12,P16,Paper Towels,Cleaning,12,2.5
+2026-09-13,P01,Cola 600ml,Beverages,38,1.0
+2026-09-13,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-09-13,P03,Bottled Water 1L,Beverages,55,0.6
+2026-09-13,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-09-13,P05,Potato Chips,Snacks,22,1.3
+2026-09-13,P06,Salted Peanuts,Snacks,18,0.9
+2026-09-13,P07,Cookies,Snacks,21,1.2
+2026-09-13,P08,Chocolate Bar,Snacks,25,0.85
+2026-09-13,P09,Whole Milk 1L,Dairy,35,1.2
+2026-09-13,P10,Yogurt 1kg,Dairy,14,2.2
+2026-09-13,P11,Cheese 400g,Dairy,8,3.8
+2026-09-13,P12,Butter 200g,Dairy,11,1.9
+2026-09-13,P13,Dish Soap,Cleaning,10,1.9
+2026-09-13,P14,Laundry Detergent,Cleaning,5,5.2
+2026-09-13,P15,Bleach 1L,Cleaning,12,1.5
+2026-09-13,P16,Paper Towels,Cleaning,9,2.5
+2026-09-14,P01,Cola 600ml,Beverages,31,1.0
+2026-09-14,P02,Orange Soda 600ml,Beverages,17,0.95
+2026-09-14,P03,Bottled Water 1L,Beverages,25,0.6
+2026-09-14,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-09-14,P05,Potato Chips,Snacks,18,1.3
+2026-09-14,P06,Salted Peanuts,Snacks,17,0.9
+2026-09-14,P07,Cookies,Snacks,15,1.2
+2026-09-14,P08,Chocolate Bar,Snacks,28,0.85
+2026-09-14,P09,Whole Milk 1L,Dairy,29,1.2
+2026-09-14,P10,Yogurt 1kg,Dairy,13,2.2
+2026-09-14,P11,Cheese 400g,Dairy,9,3.8
+2026-09-14,P12,Butter 200g,Dairy,8,1.9
+2026-09-14,P13,Dish Soap,Cleaning,11,1.9
+2026-09-14,P14,Laundry Detergent,Cleaning,5,5.2
+2026-09-14,P15,Bleach 1L,Cleaning,8,1.5
+2026-09-14,P16,Paper Towels,Cleaning,4,2.5
+2026-09-15,P01,Cola 600ml,Beverages,30,1.0
+2026-09-15,P02,Orange Soda 600ml,Beverages,16,0.95
+2026-09-15,P03,Bottled Water 1L,Beverages,35,0.6
+2026-09-15,P04,Fruit Juice 1L,Beverages,15,1.5
+2026-09-15,P05,Potato Chips,Snacks,15,1.3
+2026-09-15,P06,Salted Peanuts,Snacks,12,0.9
+2026-09-15,P07,Cookies,Snacks,16,1.2
+2026-09-15,P08,Chocolate Bar,Snacks,21,0.85
+2026-09-15,P09,Whole Milk 1L,Dairy,27,1.2
+2026-09-15,P10,Yogurt 1kg,Dairy,8,2.2
+2026-09-15,P11,Cheese 400g,Dairy,8,3.8
+2026-09-15,P12,Butter 200g,Dairy,4,1.9
+2026-09-15,P13,Dish Soap,Cleaning,5,1.9
+2026-09-15,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-15,P15,Bleach 1L,Cleaning,6,1.5
+2026-09-15,P16,Paper Towels,Cleaning,7,2.5
+2026-09-16,P01,Cola 600ml,Beverages,19,1.0
+2026-09-16,P02,Orange Soda 600ml,Beverages,13,0.95
+2026-09-16,P03,Bottled Water 1L,Beverages,29,0.6
+2026-09-16,P04,Fruit Juice 1L,Beverages,12,1.5
+2026-09-16,P05,Potato Chips,Snacks,27,1.3
+2026-09-16,P06,Salted Peanuts,Snacks,17,0.9
+2026-09-16,P07,Cookies,Snacks,16,1.2
+2026-09-16,P08,Chocolate Bar,Snacks,28,0.85
+2026-09-16,P09,Whole Milk 1L,Dairy,33,1.2
+2026-09-16,P10,Yogurt 1kg,Dairy,12,2.2
+2026-09-16,P11,Cheese 400g,Dairy,7,3.8
+2026-09-16,P12,Butter 200g,Dairy,8,1.9
+2026-09-16,P13,Dish Soap,Cleaning,14,1.9
+2026-09-16,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-16,P15,Bleach 1L,Cleaning,12,1.5
+2026-09-16,P16,Paper Towels,Cleaning,9,2.5
+2026-09-17,P01,Cola 600ml,Beverages,34,1.0
+2026-09-17,P02,Orange Soda 600ml,Beverages,15,0.95
+2026-09-17,P03,Bottled Water 1L,Beverages,24,0.6
+2026-09-17,P04,Fruit Juice 1L,Beverages,13,1.5
+2026-09-17,P05,Potato Chips,Snacks,13,1.3
+2026-09-17,P06,Salted Peanuts,Snacks,13,0.9
+2026-09-17,P07,Cookies,Snacks,21,1.2
+2026-09-17,P08,Chocolate Bar,Snacks,20,0.85
+2026-09-17,P09,Whole Milk 1L,Dairy,29,1.2
+2026-09-17,P10,Yogurt 1kg,Dairy,7,2.2
+2026-09-17,P11,Cheese 400g,Dairy,7,3.8
+2026-09-17,P12,Butter 200g,Dairy,8,1.9
+2026-09-17,P13,Dish Soap,Cleaning,10,1.9
+2026-09-17,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-17,P15,Bleach 1L,Cleaning,12,1.5
+2026-09-17,P16,Paper Towels,Cleaning,10,2.5
+2026-09-18,P01,Cola 600ml,Beverages,27,1.0
+2026-09-18,P02,Orange Soda 600ml,Beverages,28,0.95
+2026-09-18,P03,Bottled Water 1L,Beverages,33,0.6
+2026-09-18,P04,Fruit Juice 1L,Beverages,15,1.5
+2026-09-18,P05,Potato Chips,Snacks,25,1.3
+2026-09-18,P06,Salted Peanuts,Snacks,21,0.9
+2026-09-18,P07,Cookies,Snacks,15,1.2
+2026-09-18,P08,Chocolate Bar,Snacks,30,0.85
+2026-09-18,P09,Whole Milk 1L,Dairy,33,1.2
+2026-09-18,P10,Yogurt 1kg,Dairy,14,2.2
+2026-09-18,P11,Cheese 400g,Dairy,8,3.8
+2026-09-18,P12,Butter 200g,Dairy,9,1.9
+2026-09-18,P13,Dish Soap,Cleaning,10,1.9
+2026-09-18,P14,Laundry Detergent,Cleaning,8,5.2
+2026-09-18,P15,Bleach 1L,Cleaning,11,1.5
+2026-09-18,P16,Paper Towels,Cleaning,6,2.5
+2026-09-19,P01,Cola 600ml,Beverages,41,1.0
+2026-09-19,P02,Orange Soda 600ml,Beverages,27,0.95
+2026-09-19,P03,Bottled Water 1L,Beverages,41,0.6
+2026-09-19,P04,Fruit Juice 1L,Beverages,15,1.5
+2026-09-19,P05,Potato Chips,Snacks,28,1.3
+2026-09-19,P06,Salted Peanuts,Snacks,15,0.9
+2026-09-19,P07,Cookies,Snacks,30,1.2
+2026-09-19,P08,Chocolate Bar,Snacks,26,0.85
+2026-09-19,P09,Whole Milk 1L,Dairy,31,1.2
+2026-09-19,P10,Yogurt 1kg,Dairy,17,2.2
+2026-09-19,P11,Cheese 400g,Dairy,11,3.8
+2026-09-19,P12,Butter 200g,Dairy,10,1.9
+2026-09-19,P13,Dish Soap,Cleaning,17,1.9
+2026-09-19,P14,Laundry Detergent,Cleaning,7,5.2
+2026-09-19,P15,Bleach 1L,Cleaning,10,1.5
+2026-09-19,P16,Paper Towels,Cleaning,12,2.5
+2026-09-20,P01,Cola 600ml,Beverages,42,1.0
+2026-09-20,P02,Orange Soda 600ml,Beverages,24,0.95
+2026-09-20,P03,Bottled Water 1L,Beverages,33,0.6
+2026-09-20,P04,Fruit Juice 1L,Beverages,21,1.5
+2026-09-20,P05,Potato Chips,Snacks,31,1.3
+2026-09-20,P06,Salted Peanuts,Snacks,15,0.9
+2026-09-20,P07,Cookies,Snacks,26,1.2
+2026-09-20,P08,Chocolate Bar,Snacks,23,0.85
+2026-09-20,P09,Whole Milk 1L,Dairy,31,1.2
+2026-09-20,P10,Yogurt 1kg,Dairy,11,2.2
+2026-09-20,P11,Cheese 400g,Dairy,9,3.8
+2026-09-20,P12,Butter 200g,Dairy,7,1.9
+2026-09-20,P13,Dish Soap,Cleaning,11,1.9
+2026-09-20,P14,Laundry Detergent,Cleaning,8,5.2
+2026-09-20,P15,Bleach 1L,Cleaning,12,1.5
+2026-09-20,P16,Paper Towels,Cleaning,11,2.5
+2026-09-21,P01,Cola 600ml,Beverages,35,1.0
+2026-09-21,P02,Orange Soda 600ml,Beverages,18,0.95
+2026-09-21,P03,Bottled Water 1L,Beverages,33,0.6
+2026-09-21,P04,Fruit Juice 1L,Beverages,15,1.5
+2026-09-21,P05,Potato Chips,Snacks,30,1.3
+2026-09-21,P06,Salted Peanuts,Snacks,18,0.9
+2026-09-21,P07,Cookies,Snacks,23,1.2
+2026-09-21,P08,Chocolate Bar,Snacks,29,0.85
+2026-09-21,P09,Whole Milk 1L,Dairy,32,1.2
+2026-09-21,P10,Yogurt 1kg,Dairy,6,2.2
+2026-09-21,P11,Cheese 400g,Dairy,9,3.8
+2026-09-21,P12,Butter 200g,Dairy,7,1.9
+2026-09-21,P13,Dish Soap,Cleaning,10,1.9
+2026-09-21,P14,Laundry Detergent,Cleaning,5,5.2
+2026-09-21,P15,Bleach 1L,Cleaning,8,1.5
+2026-09-21,P16,Paper Towels,Cleaning,8,2.5
+2026-09-22,P01,Cola 600ml,Beverages,34,1.0
+2026-09-22,P02,Orange Soda 600ml,Beverages,13,0.95
+2026-09-22,P03,Bottled Water 1L,Beverages,34,0.6
+2026-09-22,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-09-22,P05,Potato Chips,Snacks,17,1.3
+2026-09-22,P06,Salted Peanuts,Snacks,16,0.9
+2026-09-22,P07,Cookies,Snacks,16,1.2
+2026-09-22,P08,Chocolate Bar,Snacks,20,0.85
+2026-09-22,P09,Whole Milk 1L,Dairy,21,1.2
+2026-09-22,P10,Yogurt 1kg,Dairy,12,2.2
+2026-09-22,P11,Cheese 400g,Dairy,8,3.8
+2026-09-22,P12,Butter 200g,Dairy,5,1.9
+2026-09-22,P13,Dish Soap,Cleaning,8,1.9
+2026-09-22,P14,Laundry Detergent,Cleaning,5,5.2
+2026-09-22,P15,Bleach 1L,Cleaning,9,1.5
+2026-09-22,P16,Paper Towels,Cleaning,6,2.5
+2026-09-23,P01,Cola 600ml,Beverages,31,1.0
+2026-09-23,P02,Orange Soda 600ml,Beverages,16,0.95
+2026-09-23,P03,Bottled Water 1L,Beverages,53,0.6
+2026-09-23,P04,Fruit Juice 1L,Beverages,10,1.5
+2026-09-23,P05,Potato Chips,Snacks,18,1.3
+2026-09-23,P06,Salted Peanuts,Snacks,16,0.9
+2026-09-23,P07,Cookies,Snacks,14,1.2
+2026-09-23,P08,Chocolate Bar,Snacks,28,0.85
+2026-09-23,P09,Whole Milk 1L,Dairy,37,1.2
+2026-09-23,P10,Yogurt 1kg,Dairy,10,2.2
+2026-09-23,P11,Cheese 400g,Dairy,8,3.8
+2026-09-23,P12,Butter 200g,Dairy,6,1.9
+2026-09-23,P13,Dish Soap,Cleaning,10,1.9
+2026-09-23,P14,Laundry Detergent,Cleaning,7,5.2
+2026-09-23,P15,Bleach 1L,Cleaning,10,1.5
+2026-09-23,P16,Paper Towels,Cleaning,6,2.5
+2026-09-24,P01,Cola 600ml,Beverages,38,1.0
+2026-09-24,P02,Orange Soda 600ml,Beverages,25,0.95
+2026-09-24,P03,Bottled Water 1L,Beverages,36,0.6
+2026-09-24,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-09-24,P05,Potato Chips,Snacks,22,1.3
+2026-09-24,P06,Salted Peanuts,Snacks,12,0.9
+2026-09-24,P07,Cookies,Snacks,19,1.2
+2026-09-24,P08,Chocolate Bar,Snacks,22,0.85
+2026-09-24,P09,Whole Milk 1L,Dairy,13,1.2
+2026-09-24,P10,Yogurt 1kg,Dairy,13,2.2
+2026-09-24,P11,Cheese 400g,Dairy,8,3.8
+2026-09-24,P12,Butter 200g,Dairy,8,1.9
+2026-09-24,P13,Dish Soap,Cleaning,9,1.9
+2026-09-24,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-24,P15,Bleach 1L,Cleaning,11,1.5
+2026-09-24,P16,Paper Towels,Cleaning,8,2.5
+2026-09-25,P01,Cola 600ml,Beverages,34,1.0
+2026-09-25,P02,Orange Soda 600ml,Beverages,37,0.95
+2026-09-25,P03,Bottled Water 1L,Beverages,36,0.6
+2026-09-25,P04,Fruit Juice 1L,Beverages,15,1.5
+2026-09-25,P05,Potato Chips,Snacks,34,1.3
+2026-09-25,P06,Salted Peanuts,Snacks,15,0.9
+2026-09-25,P07,Cookies,Snacks,16,1.2
+2026-09-25,P08,Chocolate Bar,Snacks,19,0.85
+2026-09-25,P09,Whole Milk 1L,Dairy,33,1.2
+2026-09-25,P10,Yogurt 1kg,Dairy,14,2.2
+2026-09-25,P11,Cheese 400g,Dairy,10,3.8
+2026-09-25,P12,Butter 200g,Dairy,5,1.9
+2026-09-25,P13,Dish Soap,Cleaning,13,1.9
+2026-09-25,P14,Laundry Detergent,Cleaning,8,5.2
+2026-09-25,P15,Bleach 1L,Cleaning,10,1.5
+2026-09-25,P16,Paper Towels,Cleaning,9,2.5
+2026-09-26,P01,Cola 600ml,Beverages,42,1.0
+2026-09-26,P02,Orange Soda 600ml,Beverages,28,0.95
+2026-09-26,P03,Bottled Water 1L,Beverages,49,0.6
+2026-09-26,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-09-26,P05,Potato Chips,Snacks,28,1.3
+2026-09-26,P06,Salted Peanuts,Snacks,16,0.9
+2026-09-26,P07,Cookies,Snacks,26,1.2
+2026-09-26,P08,Chocolate Bar,Snacks,35,0.85
+2026-09-26,P09,Whole Milk 1L,Dairy,34,1.2
+2026-09-26,P10,Yogurt 1kg,Dairy,15,2.2
+2026-09-26,P11,Cheese 400g,Dairy,7,3.8
+2026-09-26,P12,Butter 200g,Dairy,10,1.9
+2026-09-26,P13,Dish Soap,Cleaning,12,1.9
+2026-09-26,P14,Laundry Detergent,Cleaning,7,5.2
+2026-09-26,P15,Bleach 1L,Cleaning,14,1.5
+2026-09-26,P16,Paper Towels,Cleaning,9,2.5
+2026-09-27,P01,Cola 600ml,Beverages,44,1.0
+2026-09-27,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-09-27,P03,Bottled Water 1L,Beverages,42,0.6
+2026-09-27,P04,Fruit Juice 1L,Beverages,19,1.5
+2026-09-27,P05,Potato Chips,Snacks,22,1.3
+2026-09-27,P06,Salted Peanuts,Snacks,22,0.9
+2026-09-27,P07,Cookies,Snacks,23,1.2
+2026-09-27,P08,Chocolate Bar,Snacks,37,0.85
+2026-09-27,P09,Whole Milk 1L,Dairy,32,1.2
+2026-09-27,P10,Yogurt 1kg,Dairy,13,2.2
+2026-09-27,P11,Cheese 400g,Dairy,10,3.8
+2026-09-27,P12,Butter 200g,Dairy,8,1.9
+2026-09-27,P13,Dish Soap,Cleaning,10,1.9
+2026-09-27,P14,Laundry Detergent,Cleaning,7,5.2
+2026-09-27,P15,Bleach 1L,Cleaning,14,1.5
+2026-09-27,P16,Paper Towels,Cleaning,10,2.5
+2026-09-28,P01,Cola 600ml,Beverages,22,1.0
+2026-09-28,P02,Orange Soda 600ml,Beverages,23,0.95
+2026-09-28,P03,Bottled Water 1L,Beverages,18,0.6
+2026-09-28,P04,Fruit Juice 1L,Beverages,7,1.5
+2026-09-28,P05,Potato Chips,Snacks,22,1.3
+2026-09-28,P06,Salted Peanuts,Snacks,16,0.9
+2026-09-28,P07,Cookies,Snacks,18,1.2
+2026-09-28,P08,Chocolate Bar,Snacks,19,0.85
+2026-09-28,P09,Whole Milk 1L,Dairy,25,1.2
+2026-09-28,P10,Yogurt 1kg,Dairy,7,2.2
+2026-09-28,P11,Cheese 400g,Dairy,8,3.8
+2026-09-28,P12,Butter 200g,Dairy,4,1.9
+2026-09-28,P13,Dish Soap,Cleaning,9,1.9
+2026-09-28,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-28,P15,Bleach 1L,Cleaning,5,1.5
+2026-09-28,P16,Paper Towels,Cleaning,7,2.5
+2026-09-29,P01,Cola 600ml,Beverages,33,1.0
+2026-09-29,P02,Orange Soda 600ml,Beverages,26,0.95
+2026-09-29,P03,Bottled Water 1L,Beverages,21,0.6
+2026-09-29,P04,Fruit Juice 1L,Beverages,14,1.5
+2026-09-29,P05,Potato Chips,Snacks,15,1.3
+2026-09-29,P06,Salted Peanuts,Snacks,10,0.9
+2026-09-29,P07,Cookies,Snacks,24,1.2
+2026-09-29,P08,Chocolate Bar,Snacks,27,0.85
+2026-09-29,P09,Whole Milk 1L,Dairy,21,1.2
+2026-09-29,P10,Yogurt 1kg,Dairy,11,2.2
+2026-09-29,P11,Cheese 400g,Dairy,9,3.8
+2026-09-29,P12,Butter 200g,Dairy,7,1.9
+2026-09-29,P13,Dish Soap,Cleaning,15,1.9
+2026-09-29,P14,Laundry Detergent,Cleaning,6,5.2
+2026-09-29,P15,Bleach 1L,Cleaning,3,1.5
+2026-09-29,P16,Paper Towels,Cleaning,7,2.5
+2026-09-30,P01,Cola 600ml,Beverages,23,1.0
+2026-09-30,P02,Orange Soda 600ml,Beverages,19,0.95
+2026-09-30,P03,Bottled Water 1L,Beverages,33,0.6
+2026-09-30,P04,Fruit Juice 1L,Beverages,11,1.5
+2026-09-30,P05,Potato Chips,Snacks,16,1.3
+2026-09-30,P06,Salted Peanuts,Snacks,20,0.9
+2026-09-30,P07,Cookies,Snacks,20,1.2
+2026-09-30,P08,Chocolate Bar,Snacks,20,0.85
+2026-09-30,P09,Whole Milk 1L,Dairy,30,1.2
+2026-09-30,P10,Yogurt 1kg,Dairy,12,2.2
+2026-09-30,P11,Cheese 400g,Dairy,10,3.8
+2026-09-30,P12,Butter 200g,Dairy,5,1.9
+2026-09-30,P13,Dish Soap,Cleaning,11,1.9
+2026-09-30,P14,Laundry Detergent,Cleaning,5,5.2
+2026-09-30,P15,Bleach 1L,Cleaning,11,1.5
+2026-09-30,P16,Paper Towels,Cleaning,7,2.5

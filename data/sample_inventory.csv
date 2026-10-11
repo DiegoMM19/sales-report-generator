@@ -1,0 +1,17 @@
+product_id,product,category,unit_cost,unit_price,stock_on_hand,reorder_level,supplier
+P01,Cola 600ml,Beverages,0.6,1.0,40,78,Beverage Wholesale
+P02,Orange Soda 600ml,Beverages,0.55,0.95,120,54,Beverage Wholesale
+P03,Bottled Water 1L,Beverages,0.3,0.6,55,90,Beverage Wholesale
+P04,Fruit Juice 1L,Beverages,0.9,1.5,70,36,Beverage Wholesale
+P05,Potato Chips,Snacks,0.8,1.3,130,60,Snack Distributor
+P06,Salted Peanuts,Snacks,0.5,0.9,90,42,Snack Distributor
+P07,Cookies,Snacks,0.7,1.2,110,48,Snack Distributor
+P08,Chocolate Bar,Snacks,0.45,0.85,150,66,Snack Distributor
+P09,Whole Milk 1L,Dairy,0.85,1.2,35,72,Dairy Co-op
+P10,Yogurt 1kg,Dairy,1.4,2.2,45,30,Dairy Co-op
+P11,Cheese 400g,Dairy,2.6,3.8,30,21,Dairy Co-op
+P12,Butter 200g,Dairy,1.3,1.9,28,18,Dairy Co-op
+P13,Dish Soap,Cleaning,1.1,1.9,12,27,Home Supplies Inc.
+P14,Laundry Detergent,Cleaning,3.5,5.2,26,15,Home Supplies Inc.
+P15,Bleach 1L,Cleaning,0.9,1.5,48,24,Home Supplies Inc.
+P16,Paper Towels,Cleaning,1.6,2.5,36,21,Home Supplies Inc.
