@@ -25,7 +25,7 @@ Written in Python (pandas + openpyxl).
 ## Quick start
 
 ```bash
-git clone (https://github.com/DiegoMM19/sales-report-generator)
+git clone https://github.com/DiegoMM19/sales-report-generator
 cd sales-report-generator
 pip install -r requirements.txt
 python report_generator.py
